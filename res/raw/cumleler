@@ -1,0 +1,1654 @@
+{
+   "veriler": {
+       "cumleler": [
+            {
+               "ing":"keep going",
+               "tr":" devam etmek"
+            },
+            {
+               "ing":"have a breakfast ",
+               "tr":" kahvalti etmek"
+            },
+            {
+               "ing":"have a bath ",
+               "tr":" banyo yapmak"
+            },
+            {
+               "ing":"have a nice trip ",
+               "tr":" iyi yolculuklar"
+            },
+            {
+               "ing":"have a nice holiday ",
+               "tr":" iyi tatiller"
+            },
+            {
+               "ing":"do you have any money on you? ",
+               "tr":" yaninda para varmi (sende para varmi vs..)"
+            },
+            {
+               "ing":"keep in",
+               "tr":" kenara"
+            },
+            {
+               "ing":"naber serseri",
+               "tr":"how are you dude"
+            },
+            {
+               "ing":"take it easy",
+               "tr":"kolay gelsin"
+            },
+            {
+               "ing":"take care of yourself please",
+               "tr":"lutfen kendine iyi bak"
+            },
+            {
+               "ing":"don't be worry",
+               "tr":"endiþelenme,telaþlanma"
+            },
+            {
+               "ing":"calm down please",
+               "tr":"sakin ol lutfen"
+            },
+            {
+               "ing":"yummy! ",
+               "tr":" lezzetli"
+            },
+            {
+               "ing":"shower ",
+               "tr":" sagnak yagmur"
+            },
+            {
+               "ing":"you turn me on ",
+               "tr":" beni etkiliyorsun (tahrik ediyorsun)"
+            },
+            {
+               "ing":"it's up to you",
+               "tr":"sana baðlý, senin bileceðin birþey"
+            },
+            {
+               "ing":"from now on",
+               "tr":"bundan sonra"
+            },
+            {
+               "ing":"first of all",
+               "tr": "ilk önce"
+            },
+            {
+               "ing":"well",
+               "tr": "peki"
+            },
+            {
+               "ing":"then",
+                "tr": "öyleyse,o halde,ozaman"
+            },
+            {
+               "ing":"do what you like",
+               "tr": "ne istiyorsan onu yap"
+            },
+            {
+               "ing":"can ý use",
+               "tr": "kullanabýlýrmýyým"
+            },
+            {
+               "ing":"can ý try",
+               "tr":" deneyebýlýrmýyým"
+            },
+            {
+               "ing":"nice to see you see again",
+               "tr":" tekrar gorustugumuze sevindim"
+            },
+            {
+               "ing":"so what",
+               "tr":" ne olmuþ yani"
+            },
+            {
+               "ing":"come on",
+               "tr":" saçmalama"
+            },
+            {
+               "ing":"it's your turn",
+               "tr":" sýra sizde"
+            },
+            {
+               "ing":"here we go",
+               "tr":" basliyoruz"
+            },
+            {
+               "ing":"hush",
+               "tr":" sus"
+            },
+            {
+               "ing":"just think!",
+               "tr":" düþün birkere"
+            },
+            {
+               "ing":"do afavour for me",
+               "tr":" benim için bir iyilik yap"
+            },
+            {
+               "ing":"so far so good",
+               "tr":" þimdiye kadar iyi"
+            },
+            {
+               "ing":"never mind",
+               "tr":" önemli deðil,sorun deðil"
+            },
+            {
+               "ing":"i fall well",
+               "tr":" her sey yolunda giderse"
+            },
+            {
+               "ing":"howdare/come you are here!",
+               "tr":"nasýl olur da burda olursun"
+            },
+            {
+               "ing":"how then!",
+               "tr":"buda nedemek"
+            },
+            {
+               "ing":"i'm not in the mood",
+               "tr":"caným istemiyor"
+            },
+            {
+               "ing":"call back I'll call back you",
+               "tr":" daha sonra aramak"
+            },
+            {
+               "ing":"do not forget",
+               "tr":" unutma"
+            },
+            {
+               "ing":"do not make panic",
+               "tr":" panik yapma"
+            },
+            {
+               "ing":"be calm",
+               "tr":" sakinol"
+            },
+            {
+               "ing":"be more polite",
+               "tr":" daha kibar ol"
+            },
+            {
+               "ing":"the world is avillage",
+               "tr":" dunya kucuk"
+            },
+            {
+               "ing":"I'm not feeling so good",
+               "tr":" kendimi iyi hissetmiyorum"
+            },
+            {
+               "ing":"you dress very well",
+               "tr":" cok.giyiniyorsun"
+            },
+            {
+               "ing":"i'm in the mood",
+               "tr":"havam yerinde"
+            },
+            {
+               "ing":"i'msickofit!",
+               "tr":" bundan býktým"
+            },
+            {
+               "ing":"to be honest",
+               "tr":" durust olmak gerekirse"
+            },
+            {
+               "ing":"i have no idea",
+               "tr":" hicbir fikrim yok"
+            },
+            {
+               "ing":"have a seat!",
+               "tr":"oturun!"
+            },
+            {
+               "ing":"why so?",
+               "tr":" neden oyle?"
+            },
+            {
+               "ing":"keep it up!",
+               "tr":"boyle devam et(takdir etmek anlaminda)"
+            },
+            {
+               "ing":"whold you like to accompany me?",
+               "tr":"bana eslik edermisin?"
+            },
+            {
+               "ing":"toget",
+               "tr":"almak/getirmek"
+            },
+            {
+               "ing":"it'shisduty",
+               "tr":"bu onun gorevi"
+            },
+            {
+               "ing":"It'snicehearing from you",
+               "tr":"sesini duymak ne guzel"
+            },
+            {
+               "ing":"It's been a long time",
+               "tr":"uzun zaman oldu(gorusmeyeli)"
+            },
+            {
+               "ing":"where have you been?",
+               "tr":"nerelerdeydin?"
+            },
+            {
+               "ing":"i hardly knowhim",
+               "tr":"onu cok az tanýyorum"
+            },
+            {
+               "ing":"how'sit going?",
+               "tr":"nasil gidiyor?/nasilsin?"
+            },
+            {
+               "ing":"what about yourself?",
+               "tr":"ya senden naber?"
+            },
+            {
+               "ing":"in the meantim",
+               "tr":"bu arada"
+            },
+            {
+               "ing":"guess what....",
+               "tr":"bil bakalim...."
+            },
+            {
+               "ing":"i know exactly what you mean",
+               "tr":"ne demek istedigini tam olarak biliyorum."
+            },
+            {
+               "ing":"let's go for it!",
+               "tr":"deneyelim!,riske girelim!"
+            },
+            {
+               "ing":"what'son?",
+               "tr":"tvde ne var?"
+            },
+            {
+               "ing":"first of all",
+               "tr":"öncelikle"
+            },
+            {
+               "ing":"last but not least",
+               "tr":"son olarak"
+            },
+            {
+               "ing":"all in all",
+               "tr":"genel olarak"
+            },
+            {
+               "ing":"in other words",
+               "tr":"diger bir deyiþle"
+            },
+            {
+               "ing":"no matter how",
+               "tr":"nasil olur saolsun"
+            },
+            {
+               "ing":"no matter when",
+               "tr":"ne zaman olursa olsun"
+            },
+            {
+               "ing":"as far as know",
+               "tr":"bildigim kadariyla"
+            },
+            {
+               "ing":"addly enough",
+               "tr":"yeterince garip"
+            },
+            {
+               "ing":"you can take my word forit.",
+               "tr":"bana güvenebilirsiniz"
+            },
+            {
+               "ing":"to sum up,we can say.....",
+               "tr":"özetlersek soyle diyebiliriz...."
+            },
+            {
+               "ing":"as youcansee...",
+               "tr":"gördügünüz gibi"
+            },
+            {
+               "ing":"asi'veexplained...",
+               "tr":"açikladigim gibi..."
+            },
+            {
+               "ing":"it is my great pleasure",
+               "tr":"bu benim icin buyuk bir zevk"
+            },
+            {
+               "ing":"if needbe",
+               "tr":"gerekirse"
+            },
+            {
+               "ing":"in case of need",
+               "tr":"gerektiðinde"
+            },
+            {
+               "ing":"damn",
+               "tr":"kahretsin,DamnýfIknow"
+            },
+            {
+               "ing":"i have afancythat",
+               "tr":"bana öyle geliyorki"
+            },
+            {
+               "ing":"dependon you",
+               "tr":"sana guveniyorum/inanýyorum."
+            },
+            {
+               "ing":"matterinhand",
+               "tr":"söz konusu olan þey"
+            },
+            {
+               "ing":"there you are!",
+               "tr":"buyur!"
+            },
+            {
+               "ing":"here you are!",
+               "tr":"buyurun!!"
+            },
+            {
+               "ing":"for thesakeof",
+               "tr":"aþkýna"
+            },
+            {
+               "ing":"keep your smile",
+               "tr":"yüzünden gülücükler eksik olmasýn"
+            },
+            {
+               "ing":"it is up to you",
+               "tr":"sen/siz bilirsiniz"
+            },
+            {
+               "ing":"dont be grumpy",
+               "tr":"somurtma"
+            },
+            {
+               "ing":"chould you help me?",
+               "tr":"bana yardým edebilirmisiniz"
+            },
+            {
+               "ing":"I am trying to find a shop",
+               "tr":"bir dükkan bulmaya çalýþýyorum"
+            },
+            {
+               "ing":"dont botherme",
+               "tr":"benim canýmý sýkma"
+            },
+            {
+               "ing":"take it easy",
+               "tr":"keyfine bak."
+            },
+            {
+               "ing":"just have a look",
+               "tr":"sadece bir gözat"
+            },
+            {
+               "ing":"enjoy your meal",
+               "tr":"afiyet olsun"
+            },
+            {
+               "ing":"shallwe dance",
+               "tr":"dans edelimmi?"
+            },
+            {
+               "ing":"would you like to dance with me",
+               "tr":"bu dansý bana lutfedermisiniz?"
+            },
+            {
+               "ing":"bye for a while",
+               "tr":"bir süreliðine güle güle"
+            },
+            {
+               "ing":"you look stone",
+               "tr":"taþ gibi görünüyorsun(ingiliz kýzlarda çok etkili)"
+            },
+            {
+               "ing":"are you blind",
+               "tr":"körmüsün"
+            },
+            {
+               "ing":"are you deaf",
+               "tr":"saðýrmýsýn"
+            },
+            {
+               "ing":"i will be right back",
+               "tr":"hemen döneceðim"
+            },
+            {
+               "ing":"what i know doesn't interest you",
+               "tr":"bildiðim þey seni ilgilendirmez"
+            },
+            {
+               "ing":"don't you dare!!",
+               "tr":"sakýnha!!!"
+            },
+            {
+               "ing":"with or with out you",
+               "tr":"seninle yada Sensiz"
+            },
+            {
+               "ing":"do not drive me",
+               "tr":"beni zorlama,tahriketme"
+            },
+            {
+               "ing":"good luck",
+               "tr":"iyi þanslar, baþarýlar"
+            },
+            {
+               "ing":"more power to your elbow",
+               "tr":"kolay gelsin..."
+            },
+            {
+               "ing":"take it easy",
+               "tr":"kolay gelsin...bu daha kolaysanýrým.."
+            },
+            {
+               "ing":"even so",
+               "tr":"öyle olsa bile"
+            },
+            {
+               "ing":"even now",
+               "tr":"þuanda/þimdibile"
+            },
+            {
+               "ing":"asusual",
+               "tr":"her zamanki gibi"
+            },
+            {
+               "ing":"at one time",
+               "tr":"bir zamanlar"
+            },
+            {
+               "ing":"get lost",
+               "tr":"kaybol!"
+            },
+            {
+               "ing":"wingitup",
+               "tr":"kafadan atmak,kafadansallamak"
+            },
+            {
+               "ing":"how did you get on?",
+               "tr":"neler yaptin?"
+            },
+            {
+               "ing":"what have you been up to",
+               "tr":"neler yaptýn,görüþmeyeli neler yaptýn"
+            },
+            {
+               "ing":"come over",
+               "tr":"geçerken uðramak"
+            },
+            {
+               "ing":"getby",
+               "tr":"geçmek"
+            },
+            {
+               "ing":"bring up",
+               "tr":"çocuk yetiþtirmek,bir konudan bahsetmek"
+            },
+            {
+               "ing":"blowup",
+               "tr":"havaya uçurmak"
+            },
+            {
+               "ing":"talk back to",
+               "tr":"kababir þekilde cevapvermek"
+            },
+            {
+               "ing":"informer times",
+               "tr":"Onceden"
+            },
+            {
+               "ing":"infomer house",
+               "tr":"onceki evim(bundan bir önceki)"
+            },
+            {
+               "ing":"informer boy friend",
+               "tr":"bundan bir önceki erkek arkadasim"
+            },
+            {
+               "ing":"i tell you what.",
+               "tr":"baksana ne soyleyecegim...."
+            },
+            {
+               "ing":"askout(inviteonadate)",
+               "tr":"rica etmek,davet etmek"
+            },
+            {
+               "ing":"askover(invitetoone'shome)",
+               "tr":"eve davet etmek"
+            },
+            {
+               "ing":"doin(kill)",
+               "tr":"öldürmek"
+            },
+            {
+               "ing":"fall for(fallin love with somebody)",
+               "tr":"birine aþýk olmak"
+            },
+            {
+               "ing":"take for(identifysborsthwrongly)",
+               "tr":"sanmak,zannetmek"
+            },
+            {
+               "ing":"cleanup(tidy)",
+               "tr":"temizlemek"
+            },
+            {
+               "ing":"comealong(accompanysomeone)",
+               "tr":"beraber gelmek"
+            },
+            {
+               "ing":"giveback(return)",
+               "tr":"geri dönmek"
+            },
+            {
+               "ing":"workon(bebusywith..)",
+               "tr":"meþgul olmak"
+            },
+            {
+               "ing":"Do your best,leave the rest",
+               "tr":"Elinden geleni yap,Gerisini býrak"
+            },
+            {
+               "ing":"Do me a favour and shut up",
+               "tr":"Bana bir iyilik yap ve sus"
+            },
+            {
+               "ing":"Beonthealert!",
+               "tr":"Uyanýk ol!"
+            },
+            {
+               "ing":"you don't believeme..",
+               "tr":"Bana inanmýyorsun..."
+            },
+            {
+               "ing":"don't be foolish...!",
+               "tr":"saçmalama....!"
+            },
+            {
+               "ing":"that makessense...!",
+               "tr":"iþtebu mantýklý...!"
+            },
+            {
+               "ing":"dressup(wearelegantclothes)",
+               "tr":"resmi giyinmek"
+            },
+            {
+               "ing":"tobe unable to workout",
+               "tr":"iþin içinden çýkamamak"
+            },
+            {
+               "ing":"tobe curious about",
+               "tr":"merak etmek"
+            },
+            {
+               "ing":"WHATAPÝTTY!",
+               "tr":"TÜH...YAZIK!"
+            },
+            {
+               "ing":"HOW ÝS GOÝNG?",
+               "tr":"NASIL GÝDÝYOR?"
+            },
+            {
+               "ing":"I'M BROKE!",
+               "tr":"BEÞ PARASIZIM!"
+            },
+            {
+               "ing":"YOU'REWEL COME",
+               "tr":"RÝCA EDERÝM,BÝÞEY DEÐÝL."
+            },
+            {
+               "ing":"TAKE ÝT EASY WÝTH THE",
+               "tr":"ONLARLA SANA KOLAY GELSÝN."
+            },
+            {
+               "ing":"THERE ÝS NO TÝME!",
+               "tr":"ZAMAN YOK,VAKÝT YOK!"
+            },
+            {
+               "ing":"BOTH OF THEM",
+               "tr":"HER ÝKÝSÝNÝDE"
+            },
+            {
+               "ing":"IDÝE FOR YOU",
+               "tr":"SANA ÖLÜRÜM"
+            },
+            {
+               "ing":"waiter,could you bring me a bottle ",
+               "tr":"garson bana getirebilirmisin bir þiþe"
+            },
+            {
+               "ing":"I ADMÝRE YOU",
+               "tr":"SANA HAYRANIM"
+            },
+            {
+               "ing":"WHAT KÝND OF FÝLMS?",
+               "tr":"NE TÜR FÝLMLERÝ ÝZLERSÝNÝZ?"
+            },
+            {
+               "ing":"IT DEPENS",
+               "tr":"KÝÞÝYE GÖRE DEÐÝÞÝR..DEÐÝÞÝR.."
+            },
+            {
+               "ing":"TAKE ÝS EASY!",
+               "tr":"KOLAY GELSÝN!"
+            },
+            {
+               "ing":"NEVER MÝND!",
+               "tr":"BOÞVER,KAFANA TAKMA"
+            },
+            {
+               "ing":"HERE YOU ARE",
+               "tr":"BUYUR"
+            },
+            {
+               "ing":"BE GUÝET!",
+               "tr":"SESSÝZ OLUN!"
+            },
+            {
+               "ing":"YES,OF COURSE",
+               "tr":"EVET,TABÝKÝ"
+            },
+            {
+               "ing":"IN MEMORY OF",
+               "tr":"ANISINA"
+            },
+            {
+               "ing":"IN MEMORY OF MY WÝFE",
+               "tr":"KARIMIN ANISINA"
+            },
+            {
+               "ing":"I AM FÝKRET'SFÝANCEE",
+               "tr":"BEN FÝKRETÝN NÝÞANLISIYIM"
+            },
+            {
+               "ing":"FÝKRETÝN NESÝ OLUYORSUN?",
+               "tr":"WHAT ÝS YOUR RELATÝON SHÝP WÝTH FÝKRET?"
+            },
+            {
+               "ing":"FÝKRET ÞUAN YURTDIÞINDA",
+               "tr":"FÝKRET ÝS ABROAD NOW."
+            },
+            {
+               "ing":"YAKINDA EVLENECEÐÝZ",
+               "tr":"WEARE GOÝNG TO MARRY SOON."
+            },
+            {
+               "ing":"WHO ARE YOU?",
+               "tr":"SEN KÝMSÝN?"
+            },
+            {
+               "ing":"ALL OF THEM",
+               "tr":"HEPSÝNÝDE"
+            },
+            {
+               "ing":"YOUNG PEOPLE'SLEADER",
+               "tr":"GENÇ ÝNSANLARIN LÝDERÝ;ÖNCÜSÜ"
+            },
+            {
+               "ing":"WHY DO YOU SLEEPSOSTÝLL?",
+               "tr":"NEDEN HALA UYUYORSUN?"
+            },
+            {
+               "ing":"WHAT'SUP?",
+               "tr":"NEVAR NEYOK"
+            },
+            {
+               "ing":"I CAN SPEAK VERY LÝTTLE ENGLISH",
+               "tr":"ÇOK AZ ÝNGÝLÝZCE BÝLÝYORUM"
+            },
+            {
+               "ing":"HOW ARE YOU?",
+               "tr":"NASILSIN?"
+            },
+            {
+               "ing":"BE QUICKLY!",
+               "tr":"ACELE ET!"
+            },
+            {
+               "ing":"HOW OLD ARE YOU?",
+               "tr":"YAÞIN KAÇ?"
+            },
+            {
+               "ing":"TAKE CARE",
+               "tr":"KENDÝNE ÝYÝ BAK"
+            },
+            {
+               "ing":"I NEED YOU",
+               "tr":"SANA ÝHTÝYACIM VAR"
+            },
+            {
+               "ing":"UNFORTUNATELY",
+               "tr":"MALESEF"
+            },
+            {
+               "ing":"I AM FALLIN LOVE WÝTH YOU",
+               "tr":"SANA AÞIÐIM"
+            },
+            {
+               "ing":"I WANT YOU TO KNOW THAT I MÝSS YOU",
+               "tr":"SENÝ ÖZLEDÝÐÝMÝ BÝLMENÝ ÝSTERÝM"
+            },
+            {
+               "ing":"DON'TFORGETME",
+               "tr":"BENÝ UNUTMA"
+            },
+            {
+               "ing":"I WANT TO BE HAPPY",
+               "tr":"MUTLU OLMAK ÝSTÝYORUM"
+            },
+            {
+               "ing":"IF I CAN HELP YOU,JUST LET ME KNOW",
+               "tr":"EYER YARDIM GEREKÝRSE HABERÝM OLSUN"
+            },
+            {
+               "ing":"I MÝSS YOU",
+               "tr":"SENÝ ÖZLÜYORUM"
+            },
+            {
+               "ing":"I AM BOREDSTÝFF",
+               "tr":"SIKINTIDAN PATLIYORUM"
+            },
+            {
+               "ing":"LOVE ÝN MY HEART ÝS FOREVER",
+               "tr":"SEVGÝM SONSUZADEK SÜRECEK"
+            },
+            {
+               "ing":"DO NOT TRY TO MAKE PEOPLE LOVE YOU",
+               "tr":"KÝMSEYE KENDÝNÝ SEVDÝRMEYE KALKMA"
+            },
+            {
+               "ing":"MARRY ME!",
+               "tr":"EVLEN BENÝMLE"
+            },
+            {
+               "ing":"YOU ARE AVERY BEATÝFUL GÝRL",
+               "tr":"ÇOK GÜZEL BÝR KIZSIN"
+            },
+            {
+               "ing":"HOW TO LEARN ENGLISH?",
+               "tr":"ÝNGÝLÝZCE NASIL ÖÐRENÝLÝR?"
+            },
+            {
+               "ing":"HOW ÝS GOÝNG ON?",
+               "tr":"NASIL GÝDÝYOR?"
+            },
+            {
+               "ing":"AÞKIM",
+               "tr":"MY LOVE"
+            },
+            {
+               "ing":"WHICH ÝS YOUR FAVORÝTE TEAM?",
+               "tr":"HANGÝ TAKIMI TUTUYORSUN?"
+            },
+            {
+               "ing":"ARE YOU OK?",
+               "tr":"ÝYÝMÝSÝN?"
+            },
+            {
+               "ing":"GET ON WÝTH ÝT!",
+               "tr":"BAÞLA,DEVAM ET!"
+            },
+            {
+               "ing":"YOU CAN GO THERE BY BUS",
+               "tr":"ORAYA OTOBÜSLE GÝDEBÝLÝRSÝN"
+            },
+            {
+               "ing":"WHAT ÝS YOUR NAME?",
+               "tr":"ADIN NE?"
+            },
+            {
+               "ing":"I CAN SPEAK VERY LÝTTLE ENGILISH",
+               "tr":"ÇOK AZ ÝNGÝLÝZCE BÝLÝYORUM"
+            },
+            {
+               "ing":"PÝSS OFF!",
+               "tr":"DEFOL!NOT:BU ÇOK KABA SÝKTÝRGÝT ANLAMI TAÞIYOR"
+            },
+            {
+               "ing":"HOW ARE YOU TODAY?",
+               "tr":"BUGÜN NASILSIN?"
+            },
+            {
+               "ing":"DO NOT SÝT DOWN",
+               "tr":"OTURMA"
+            },
+            {
+               "ing":"MY ENGLISH ÝS NOT GOOD",
+               "tr":"ÝNGÝLÝZCEM ÝYÝ DEÐÝL"
+            },
+            {
+               "ing":"BABY-IN-ARMS",
+               "tr":"ANAKUZUSU"
+            },
+            {
+               "ing":"NEVER MÝND",
+               "tr":"HERNEYSE"
+            },
+            {
+               "ing":"ENJOR YOUR MEAL",
+               "tr":"AFÝYETOLSUN"
+            },
+            {
+               "ing":"ALLIPRAY TO GOD ÝS YOU SAYING YES",
+               "tr":"ALLAH TAN TEK DÝLEÐÝM BANA EVET DEMEN"
+            },
+            {
+               "ing":"SOSO",
+               "tr":"EH,ÞÖYLE BÖYLE"
+            },
+            {
+               "ing":"OK.YOU KNOW",
+               "tr":"ÖYLE OLSUN BAKALIM"
+            },
+            {
+               "ing":"DO YOU LÝKE WEARÝNG BLACK?",
+               "tr":"SÝYAH GÝYMEYÝ SEVERMÝSÝN?"
+            },
+            {
+               "ing":"WHAT ARE YOUR HOBBIES?",
+               "tr":"HOBÝLERÝN NELERDÝR?"
+            },
+            {
+               "ing":"I LOVE YOU BUT,I'M NOT ÝNLOVEWÝTHYOU",
+               "tr":"SENÝ SEVÝYORUM AMA,AÞIK DEÐÝLÝM"
+            },
+            {
+               "ing":"YOUR HEARTS SEEMSSOSÝLENT",
+               "tr":"KALBÝN ÇOK SESSÝZ GÖRÜNÜYOR"
+            },
+            {
+               "ing":"ÝLLMANNERED",
+               "tr":"TERBÝYESÝZ"
+            },
+            {
+               "ing":"I DON'T KNOW",
+               "tr":"BÝLMÝYORUM"
+            },
+            {
+               "ing":"DO YOU LOVE ME?",
+               "tr":"BENÝ SEVÝYORMUSUN?"
+            },
+            {
+               "ing":"I WOULD LÝKE TO COME",
+               "tr":"GELMEK ÝSTERÝM"
+            },
+            {
+               "ing":"SHUTUP!",
+               "tr":"SUS!"
+            },
+            {
+               "ing":"HÝ",
+               "tr":"MERHABA"
+            },
+            {
+               "ing":"I WANT TO DRINK WATER",
+               "tr":"SU ÝÇMEK ÝSTÝYORUM"
+            },
+            {
+               "ing":"MY DARLING",
+               "tr":"SEVGÝLÝM"
+            },
+            {
+               "ing":"LOVE IN MY HEARTS ÝS FROVER",
+               "tr":"SEVGÝM SONSUZA DEK SÜRECEK"
+            }, 
+            {
+               "ing":"GREAT!",
+               "tr":"HARÝKA!"
+            },
+            {
+               "ing":"WHAT ÝS THE MATTER?",
+               "tr":"SORUN NEDÝR?"
+            },
+            {
+               "ing":"YOU ARE WELCOME",
+               "tr":"BÝÞEY DEÐÝL"
+            },
+            {
+               "ing":"I CAN DO",
+               "tr":"YAPABÝLÝRÝM"
+            },
+            {
+               "ing":"I WONDERED",
+               "tr":"MERAK ETTÝM"
+            },
+            {
+               "ing":"I MUST GO",
+               "tr":"GÝTMELÝYÝM"
+            },
+            {
+               "ing":"SHALL WE GOTO THE CINEMA",
+               "tr":"SÝNEMAYA GÝDELÝM MÝ?"
+            },
+            {
+               "ing":"RECENTLY",
+               "tr":"SON ZAMANLARDA"
+            },
+            {
+               "ing":"EVERY BODY CAN MAKEAMISTAKE",
+               "tr":"HERKES BÝR HATA YAPABÝLÝR"
+            },
+            {
+               "ing":"NOW WE ARE QUITS",
+               "tr":"ÞÝMDÝ ÖDEÞTÝK"
+            },
+            {
+               "ing":"HELL NIGHTS",
+               "tr":"CEHENNEM GECELERÝ"
+            },
+            {
+               "ing":"SEND ME YOUR FAVORITE SONG",
+               "tr":"BANA FAVORÝ ÞARKINI GÖNDER"
+            },
+            {
+               "ing":"HELP ME!",
+               "tr":"YARDIMET!"
+            },
+            {
+               "ing":"HOW MUCH?",
+               "tr":"NE KADAR?"
+            },
+            {
+               "ing":"LETS GO",
+               "tr":"GÝDELÝM"
+            },
+            {
+               "ing":"I DONT CARE",
+               "tr":"UMRUMDA DEÐÝL"
+            },
+            {
+               "ing":"FORMERLY",
+               "tr":"ESKÝDEN"
+            },
+            {
+               "ing":"WHOM",
+               "tr":"KÝMÝ"
+            },
+            {
+               "ing":"FROMWHOM",
+               "tr":"KÝMDEN"
+            },
+            {
+               "ing":"I WISH",
+               "tr":"DÝLERÝM"
+            },
+            {
+               "ing":"WELL DONE",
+               "tr":"AFERÝN"
+            },
+            {
+               "ing":"WHERE HAVE YOU BEEN?",
+               "tr":"NERELERDESÝN?"
+            },
+            {
+               "ing":"EXCUSEME",
+               "tr":"AFEDERSÝNÝZ"
+            },
+            {
+               "ing":"SÝR",
+               "tr":"BEYFENDÝ"
+            },
+            {
+               "ing":"MÝSS",
+               "tr":"BAYAN"
+            },
+            {
+               "ing":"ARE YOU GERMAN?",
+               "tr":"SÝZ ALMANMISIZ?"
+            },
+            {
+               "ing":"YOU ARE TURKISH",
+               "tr":"SÝZ TÜRKSÜNÜZ"
+            },
+            {
+               "ing":"I UNDERSTAND A LITTLE",
+               "tr":"BEN BÝRAZ ANLARIM"
+            },
+            {
+               "ing":"YOU UNDERSTAND ENGLISH",
+               "tr":"SÝZ ÝNGÝLÝZCE ANLARSINIZ"
+            },
+            {
+               "ing":"I UNDERSTAND ENGLISH",
+               "tr":"BEN ÝNGÝLÝZCE ANLARIM"
+            },
+            {
+               "ing":"I DON'T UNDERSTAND ENGLISH",
+               "tr":"BEN ÝNGÝLÝZCE ANLAMAM"
+            },
+            {
+               "ing":"I DON'T UNDERSTAND",
+               "tr":"ANLAMAM,ANLAMIYORUM"
+            },
+            {
+               "ing":"DO YOU UNDERSTAND GERMAN?",
+               "tr":"ALMANCA ANLARMISINNIZ?"
+            },
+            {
+               "ing":"NO VERY WELL",
+               "tr":"PEK ÝYÝ DEÐÝL"
+            },
+            {
+               "ing":"VERY WELL",
+               "tr":"ÇOK ÝYÝYÝM"
+            },
+            {
+               "ing":"GOOD BYE",
+               "tr":"ALLASMALIDIK"
+            },
+            {
+               "ing":"THANKS",
+               "tr":"TEÞEKKÜRLER"
+            },
+            {
+               "ing":"THANK YOU",
+               "tr":"TEÞEKKÜR EDERÝM"
+            },
+            {
+               "ing":"AND YOU",
+               "tr":"YA SÝZ"
+            },
+            {
+               "ing":"NO,I AM SORRY",
+               "tr":"HAYIR,ÜZGÜNÜM"
+            },
+            {
+               "ing":"PLEASE",
+               "tr":"LÜTFEN"
+            },
+            {
+               "ing":"I DON'T UNDER STAND VERY WELL",
+               "tr":"PEK ÝYÝ ANLAMAM"
+            },
+            {
+               "ing":"BUT",
+               "tr":"AMA,FAKAT,LAKÝN"
+            },
+            {
+               "ing":"BU,NOT VERY WELL",
+               "tr":"AMA,PEK ÝYÝ DEÐÝL"
+            },
+            {
+               "ing":"YOU SPEAK",
+               "tr":"SÝZ KONUÞUYORSUNUZ"
+            },
+            {
+               "ing":"YOU SPEAK VER YWELL",
+               "tr":"ÇOK ÝYÝ KONUÞUYORSUNUZ"
+            },
+            {
+               "ing":"I SPEAK",
+               "tr":"BEN KONUÞURUM"
+            },
+            {
+               "ing":"I SPEAK A LITTLE",
+               "tr":"BEN BÝRAZ KONUÞURUM"
+            },
+            {
+               "ing":"I DON'T SPEAK",
+               "tr":"BEN KONUÞMAM"
+            },
+            {
+               "ing":"I DON'T SPEAK VERY WELL",
+               "tr":"BEN PEK ÝYÝ KONUÞMAM"
+            },
+            {
+               "ing":"AND I SPEAK A LITTLE",
+               "tr":"VE BÝRAZ KONUÞURUM"
+            },
+            {
+               "ing":"I AM TURKISH AND YOU",
+               "tr":"BEN TÜRKÜM YA SÝZ"
+            },
+            {
+               "ing":"THE SAME",
+               "tr":"AYNEN,AYNISI"
+            },
+            {
+               "ing":"BLESS YOU",
+               "tr":"ÇOK YAÞA"
+            },
+            {
+               "ing":"LIVE LONGER",
+               "tr":"ÇOK UZUN YAÞA ANLAMINDA"
+            },
+            {
+               "ing":"THE GOD FOR GIVES YOU",
+               "tr":"SENÝ ALLAH AFFETSÝN"
+            },
+            {
+               "ing":"FOR EXAMPLE",
+               "tr":"ÖRNEÐÝN"
+            },
+            {
+               "ing":"SOLVE PROBLEMS",
+               "tr":"PROBLEM ÇÖZMEK"
+            },
+            {
+               "ing":"SANA KATLANIYORUM ÇÜNKÜ SENÝ SEVÝYORUM",
+               "tr":"I UNDERGO YOU BECAUSE;I LOVEYOU."
+            },
+            {
+               "ing":"WHAT EVER IT HAPPENS.IWANTQUITYOU",
+               "tr":"HER NE OLURSA OLSUN SENDEN VAZGEÇMEM."
+            },
+            {
+               "ing":"I DON'T QUIT FROM YOU UNTILI DIE.",
+               "tr":"BEN ÖLENE KADAR SENDEN VAZGEÇMEM."
+            },
+            {
+               "ing":"WHAT'S YOUR PHONENUMBER?",
+               "tr":"TELEFON NUMARAN NE?"
+            },
+            {
+               "ing":"PLEASE,SPEAK QUITLY!",
+               "tr":"LÜTFEN SAKÝN KONUÞUN!"
+            },
+            {
+               "ing":"BE YOUR SELF",
+               "tr":"KENDÝN OL,KENDÝN GÝBÝ OL"
+            },
+            {
+               "ing":"I HAVE BURNT MYSELF.",
+               "tr":"KENDÝMÝ YAKTIM."
+            },
+            {
+               "ing":"I AGREE WITH YOU",
+               "tr":"SANA KATILIYORUM"
+            },
+            {
+               "ing":"IT IS NONSENSE",
+               "tr":"O SAÇMALIK"
+            },
+            {
+               "ing":"MY SWEETY ANGEL",
+               "tr":"BENÝM TATLI MELEÐÝM"
+            },
+            {
+               "ing":"WHAT HAPPENED?",
+               "tr":"NE OLDU?(GÜN BÝTTÝKTEN SONRA SORULUR)"
+            },
+            {
+               "ing":"WHAT HAS HAPPENED?",
+               "tr":"NE OLDU?(OLAY ANINDA SORULUR)"
+            },
+            {
+               "ing":"ENJOY YOUR MEAL.",
+               "tr":"AFÝYET OLSUN!"
+            },
+            {
+               "ing":"I AM OFF ENDED WITH AHMET",
+               "tr":"BEN AHMETLE KÜSTÜM"
+            },
+            {
+               "ing":"I HAVEN'T DECIDED YET",
+               "tr":"DAHA KARAR VERMEDÝM."
+            },
+            {
+               "ing":"NONE OF YOUR BUSINESS",
+               "tr":"SANANE!"
+            },
+            {
+               "ing":"I WILL LOVE YOU FOREVER",
+               "tr":"SENÝ SONSUZADEK SEVECEÐÝM"
+            },
+            {
+               "ing":"LET'S GO!",
+               "tr":"HAYDÝ!"
+            },
+            {
+               "ing":"I CAN'T THINK",
+               "tr":"TAHMÝN EDEMÝYORUM"
+            },
+            {
+               "ing":"I AM ILL TO YOU",
+               "tr":"SANA HASTAYIM"
+            },
+            {
+               "ing":"YOU ARE MAKING ME CARZY",
+               "tr":"BENÝ ÇILDIRTIYORSUN"
+            },
+            {
+               "ing":"WHAT A NICE",
+               "tr":"NEGÜZEL"
+            },
+            {
+               "ing":"HERE YOU ARE",
+               "tr":"BUYRUN"
+            },
+            {
+               "ing":"ANYMORE",
+               "tr":"ARTIK,BUNDAN SONRA ANLAMINDA"
+            },
+            {
+               "ing":"soon",
+               "tr":"yakýnda"
+            },
+            {
+               "ing":"SAINT",
+               "tr":"AZÝZ"
+            },
+            {
+               "ing":"I FEEL COLD",
+               "tr":"BEN SOÐUÐU HÝSSEDÝYORUM"
+            },
+            {
+               "ing":"I WAS BORN",
+               "tr":"DOÐDUM"
+            },
+            {
+               "ing":"ARE YOU SUITABLE?",
+               "tr":"MÜSAÝTMÝSÝN?"
+            },
+            {
+               "ing":"UNEMPLAYMENT PROBLEM",
+               "tr":"ÝÞSÝZLÝK PROBLEMÝ"
+            },
+            {
+               "ing":"AGREE WITH YOU",
+               "tr":"ANLAÞTIK"
+            },
+            {
+               "ing":"SOME IDE AWÝT HYOU",
+               "tr":"ANLAÞTIK"
+            },
+            {
+               "ing":"EVERY THINGISALL RIGH THERE",
+               "tr":"HER ÞEY YOLUN DA BURADA"
+            },
+            {
+               "ing":"WHAT DO YOU DO IN YOUR FREE TIME?",
+               "tr":"BOÞ ZAMANINDA NE YAPARSIN?"
+            },
+            {
+               "ing":"CHEERS!",
+               "tr":"HOÞÇAKAL!"
+            },
+            {
+               "ing":"EVERY BODY CAN MAKE A MISTAKE",
+               "tr":"HERKES BÝR HATA YAPABÝLÝR"
+            },
+            {
+               "ing":"PLEASE,RETURN TO ME",
+               "tr":"LÜTFEN BANA GERÝ DÖN"
+            },
+            {
+               "ing":"WHAT WOULD YOU DO IF YOU WERE ME?",
+               "tr":"BENÝM YERÝMDE OLSAN SEN NE YAPARDIN?"
+            },
+            {
+               "ing":"PLEASE,TRY TO UNDERSTAND ME",
+               "tr":"LÜTFEN,BENÝ ANLAMAYA ÇALIÞ"
+            },
+            {
+               "ing":"EXCUSEME",
+               "tr":"BENÝ AFFET"
+            },
+            {
+               "ing":"I APOLOGÝZE TO YOU FOR SHOUTÝNG YOU",
+               "tr":"SANA BAÐIRDIÐIM ÝÇÝN SENDEN ÖZÜRDÝLERÝM"
+            },
+            {
+               "ing":"I KNOW,I WAS FAULTY",
+               "tr":"BÝLÝYORUM,BEN HATALIYIM"
+            },
+            {
+               "ing":"I AM SORRY",
+               "tr":"ÜZGÜNÜM"
+            },
+            {
+               "ing":"CONGRATULATIONS!",
+               "tr":"TEBRÝKLER!"
+            },
+            {
+               "ing":"IT IS ÝMPOSSÝBLE",
+               "tr":"ÝMKANSIZ"
+            },
+            {
+               "ing":"IT IS POSSÝBLE",
+               "tr":"MÜMKÜN,OLABÝLÝR"
+            },
+            {
+               "ing":"MAYBE",
+               "tr":"BELKÝ,BÝR ÝHTÝMAL OLABÝLÝR"
+            },
+            {
+               "ing":"PROBABLY/CERTAINLY,ABSOLUTELY",
+               "tr":"MUHTEMELEN/KESÝNLÝKLE"
+            },
+            {
+               "ing":"LET'S BE HAPPY TO GETTER",
+               "tr":"HADÝ BÝRLÝKTE MUTLU OLALIM"
+            },
+            {
+               "ing":"DO NOT PISSOFME",
+               "tr":"KAFAMI BOZMA"
+            },
+            {
+               "ing":"GO AWAY,GET OUT",
+               "tr":"DEFOL"
+            },
+            {
+               "ing":"BEAT IT!,BUZZOF!",
+               "tr":"DEFOL GÝT!"
+            },
+            {
+               "ing":"I HAVE JUST WRITTEN THEM DOWN",
+               "tr":"NOT ETTÝM"
+            },
+            {
+               "ing":"I NOTED THEM",
+               "tr":"ONLARI NOT ETTÝM"
+            },
+            {
+               "ing":"I WANT TO SAY WHAT I WANT TO DO",
+               "tr":"NE YAPMAK ÝSTEDÝÐÝMÝ SÖYLEMEK ÝSTEDÝM."
+            },
+            {
+               "ing":"I WOULD LIKE YOU TO WRITE A POEM FOR ME",
+               "tr":"SENDEN BENÝM ÝÇÝN BÝR ÞÝÝR YAZMANI ÝSTÝYORUM."
+            },
+            {
+               "ing":"I WOULD LIKE TO TANGO",
+               "tr":"TANGO DANS ETMEK ÝSTERDÝM/ÝSTÝYORUM."
+            },
+            {
+               "ing":"I LIKE DANCING",
+               "tr":"DANSETMEYÝ SEVERÝM"
+            },
+            {
+               "ing":"I WOULD YOU TO RIDE HORSE",
+               "tr":"ATA BÝNMEK ÝSTERÝM"
+            },
+            {
+               "ing":"I WRITE POEM",
+               "tr":"ÞÝÝR YAZARIM"
+            },
+            {
+               "ing":"I LIKE PAITING THE PICTURE",
+               "tr":"RESÝM YAPMAYI/BOYAMAYI SEVERÝM"
+            },
+            {
+               "ing":"I LISTEN MUSIC AND SING THE SONGS",
+               "tr":"MÜZÝK DÝNLERÝM,ÞARKI SÖYLERÝM."
+            },
+            {
+               "ing":"I LIKE LISTENING MUSIC AND SINGING",
+               "tr":"MÜZÝ KDÝNLEMEYÝ VE ÞARKI SÖYLEMEYÝ SEVERÝM."
+            },
+            {
+               "ing":"YES,OF COURSE",
+               "tr":"ELBETTE"
+            },
+            {
+               "ing":"YES,CERTAÝNLY",
+               "tr":"KESÝNLÝKLE"
+            },
+            {
+               "ing":"SORRY,I DON'T WANT",
+               "tr":"ÜZGÜNÜM ÝSTEMÝYORUM."
+            },
+            {
+               "ing":"NO,THANKS",
+               "tr":"HAYIR TEÞEKKÜRLER"
+            },
+            {
+               "ing":"LOOK",
+               "tr":"GÖRÜNMEK"
+            },
+            {
+               "ing":"LOOKAT",
+               "tr":"BAKMAK"
+            },
+            {
+               "ing":"LOOK AFTER",
+               "tr":"ÝLGÝYLE BAKMAK"
+            },
+            {
+               "ing":"LOOK FOR",
+               "tr":"YOK OLAN BÝR ÞEYÝ ARAMAK"
+            },
+            {
+               "ing":"LOOK LIKE",
+               "tr":"GÝBÝ GÖRÜNMEK"
+            },
+            {
+               "ing":"WHAT ABOUT",
+               "tr":"YAPMAYA ETMEYE NE DERSÝN ANLAMINDA"
+            },
+            {
+               "ing":"LET'S",
+               "tr":"HADÝ YAPALIM EDELÝM ANLAMINDA"
+            },
+            {
+               "ing":"SHALL",
+               "tr":"YAPAYIMMI?,YAPALIMMI?...(WEVEI)"
+            },
+            {
+               "ing":"WHY DON'T WE",
+               "tr":"NÝÇÝN BÝZ YAPMIYORUZ"
+            },
+            {
+               "ing":"OH,WHAT A NICE IDEA",
+               "tr":"GÜZEL BÝR FÝKÝR"
+            },
+            {
+               "ing":"LET'SDOIT",
+               "tr":"HADÝ YAPALIM"
+            },
+            {
+               "ing":"NO,ICAN'T.I HAVE ALOT OF THINGSTODO",
+               "tr":"HAYIR YAPAMAM.YAPACAK ÇOK ÝÞÝM VAR."
+            },
+            {
+               "ing":"SORRY,I AM VERY BUSY",
+               "tr":"ÜZGÜNÜM,ÇOK MEÞGULÜM."
+            },
+            {
+               "ing":"FORGIVE ME THIS TIME",
+               "tr":"BU KEZ BENÝ AFFET"
+            },
+            {
+               "ing":"NET TIME MAYBE",
+               "tr":"BÝR SONRAKÝ SEFERE BELKÝ."
+            },
+            {
+               "ing":"HAVE YOU EVER BEENABROUD?",
+               "tr":"YURT DIÞINDA HÝÇ BULUNDUN MU?"
+            },
+            {
+               "ing":"GOODDAY",
+               "tr":"ÝYÝ GÜNLER"
+            },
+            {
+               "ing":"GOODEVNING",
+               "tr":"ÝYÝ AKÞAMLAR"
+            },
+            {
+               "ing":"GOODNIGHT",
+               "tr":"ÝYÝ GECELER"
+            },
+            {
+               "ing":"WELCOME",
+               "tr":"HOÞGELDÝN"
+            },
+            {
+               "ing":"HAVE A GOOD HOLIDAY",
+               "tr":"ÝYÝ YOLCULUKLAR"
+            },
+            {
+               "ing":"GOOD LUCLY",
+               "tr":"ÝYÝ ÞANSLAR"
+            },
+            {
+               "ing":"BEST WISHES",
+               "tr":"ÝYÝ DÝLEKLERÝMLE"
+            },
+            {
+               "ing":"HAPPY NEW YEAR",
+               "tr":"ÝYÝ YILLAR"
+            },
+            {
+               "ing":"HAPPY BIRTDAY",
+               "tr":"MUTLU YILLAR"
+            },
+            {
+               "ing":"HOW IS YOUR WIFE/HUSBAND?",
+               "tr":"EÞÝNÝZ NASIL?"
+            },
+            {
+               "ing":"SEE YOU TOMORROW",
+               "tr":"YARIN GÖRÜÞÜRÜZ"
+            },
+            {
+               "ing":"HANIM",
+               "tr":"MRS."
+            },
+            {
+               "ing":"BEY",
+               "tr":"MR."
+            },
+            {
+               "ing":"I'M LOST",
+               "tr":"KAYBOLDUM"
+            },
+            {
+               "ing":"THAT'S IMPORTANT",
+               "tr":"ÖNEMLÝ"
+            },
+            {
+               "ing":"SEE YOU LATER",
+               "tr":"YÝNE GÖRÜÞÜRÜZ"
+            },
+            {
+               "ing":"HURRY UP",
+               "tr":"ACALE ET"
+            },
+            {
+               "ing":"I UNDERSTAND",
+               "tr":"ANLIYORUM"
+            },
+            {
+               "ing":"I CAN'T UNDERSTAND",
+               "tr":"ANLAYAMIYORUM"
+            },
+            {
+               "ing":"I KNOW",
+               "tr":"BÝLÝYORUM"
+            },
+            {
+               "ing":"I DON'T KNOW",
+               "tr":"BÝLMÝYORUM"
+            },
+            {
+               "ing":"I WANT",
+               "tr":"ÝSTÝYORUM"
+            },
+            {
+               "ing":"I DON'T WANT",
+               "tr":"ÝSTEMÝYORUM"
+            },
+            {
+               "ing":"HERE",
+               "tr":"BURADA"
+            },
+            {
+               "ing":"THERE",
+               "tr":"ORADA,ÞURADA"
+            },
+            {
+               "ing":"ON THE RIGHT",
+               "tr":"SAÐDA"
+            },
+            {
+               "ing":"ON THE LEFT",
+               "tr":"SOLDA"
+            },
+            {
+               "ing":"ON THE FRONT",
+               "tr":"ÖNDE"
+            },
+            {
+               "ing":"ATTHEBACK",
+               "tr":"ARKADA"
+            },
+            {
+               "ing":"AHEAD",
+               "tr":"ÝLERDE"
+            },
+            {
+               "ing":"STRAIGHT AHEAD",
+               "tr":"TAM KARÞIDA,DOS DOÐRU"
+            },
+            {
+               "ing":"YES,ON HAND",
+               "tr":"ELÝMDE VAR"
+            },
+            {
+               "ing":"NO,NOT ON HAND",
+               "tr":"ELÝMDE YOK"
+            },
+            {
+               "ing":"WHERE ARE YOU STAYING?",
+               "tr":"NEREDE KALIYORSUNUZ?"
+            },
+            {
+               "ing":"CAN I HELP YOU?",
+               "tr":"NASIL YARDIMCI OLABÝLÝRÝM?"
+            },
+            {
+               "ing":"WHAT WOULD YOU LIKE?",
+               "tr":"BUYRUN NE ÝSTEMÝÞTÝNÝZ?"
+            },
+            {
+               "ing":"I'M COMÝNG FROM GERMAN",
+               "tr":"ALMANYA DANGELÝYORUM."
+            },
+            {
+               "ing":"THE DAY BEFORE YESTERDAY",
+               "tr":"ELVEL KÝ GÜN"
+            },
+            {
+               "ing":"IF YOUR PARENT SAGREE",
+               "tr":"EÐER ANNE BABANIZ MÜSADEEDERSE"
+            },
+            {
+               "ing":"I'M SORRY FOR IT",
+               "tr":"ONUN ÝÇÝN ÖZÜRDÝLERÝM"
+            },
+            {
+               "ing":"NO MATTER",
+               "tr":"SORUN DEÐÝL"
+            },
+            {
+               "ing":"IT DOESN'T MATTER",
+               "tr":"SORUN DEÐÝL"
+            },
+            {
+               "ing":"HOW WAS YOUR WEEKEND?",
+               "tr":"HAFTA SONU NASILDI?"
+            },
+            {
+               "ing":"WHAT DID YOU DO ATTHE WEEKEND?",
+               "tr":"HAFTA SONUNE YAPTIN?"
+            },
+            {
+               "ing":"I HAVE TAKEN THE EXAM",
+               "tr":"SINAVA KATILDIM,GÝRDÝM."
+            },
+            {
+               "ing":"I COOKED THE SPANÝSH MEAL YESTERDAY",
+               "tr":"DÜN ISPANAK YEMEÐÝ PÝÞÝRDÝM."
+            },
+            {
+               "ing":"I WAS COOKING SPANISH YESTERDAY",
+               "tr":"DÜN YEMEK ISPANAK PÝÞÝRÝYORDUM."
+            }
+        ]
+    }
+}

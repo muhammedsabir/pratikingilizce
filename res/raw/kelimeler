@@ -1,0 +1,5807 @@
+{
+ "veriler": {
+   "kelimeler": [
+      {
+       "ing":"spectator(spekteytýr)",
+       "tr":"seyirci"
+      },
+      {
+       "ing":"score (skoor)",
+       "tr":"skor,puan"
+      },
+      {
+       "ing":"stadium (steydyým)",
+       "tr":"stadyum"
+      },
+      {
+       "ing":"champion (cempyýn)",
+       "tr":"þampiyon"
+      },
+      {
+       "ing":"team (ti:m)",
+       "tr":"takým"
+      },
+      {
+       "ing":"supporter (saportýr)",
+       "tr":"taraftar"
+      },
+      {
+       "ing":"tennis (tenis)",
+       "tr":"tenis"
+      },
+      {
+       "ing":"ball (bol)",
+       "tr":"top"
+      },
+      {
+       "ing":"stands (stendz)",
+       "tr":"tribün(ler)"
+      },
+      {
+       "ing":"tournament (turnýmýnt)",
+       "tr":"turnuva"
+      },
+      {
+       "ing":"volleyball (voliybo:l)",
+       "tr":"voleybol"
+      },
+      {
+       "ing":"race (reys)",
+       "tr":"yarýþ"
+      },
+      {
+       "ing":"defeat (difiit)",
+       "tr":"yenilgi"
+      },
+      {
+       "ing":"swimming (sviming)",
+       "tr":"yüzme"
+      },
+      {
+       "ing":"transportation (transporteyþýn)",
+       "tr":"ulaþým"
+      },
+      {
+       "ing":"change (ceync)",
+       "tr":"aktarma"
+      },
+      {
+       "ing":"car,motorcar (kaar,motýrkar)",
+       "tr":"araba"
+      },
+      {
+       "ing":"at the back (et dý bek)",
+       "tr":"arkada"
+      },
+      {
+       "ing":"excess luggage (ekses lagýc)",
+       "tr":"bagaj fazlasý"
+      },
+      {
+       "ing":"baggage (begýc)",
+       "tr":" bavul,valiz"
+      },
+      {
+       "ing":"waiting room (veyting ruum)",
+       "tr":"bekleme salonu"
+      },
+      {
+       "ing":"petrol station (petrýl steyþýn)",
+       "tr":"benzin istasyonu"
+      },
+      {
+       "ing":"ticket (tikýt)",
+       "tr":"bilet"
+      },
+      {
+       "ing":"bicycle (baysikýl)",
+       "tr":"bisiklet"
+      },
+      {
+       "ing":"life jacket (layf cekýt)",
+       "tr":"can yeleði"
+      },
+      {
+       "ing":"railway (reylvey)",
+       "tr":"demiryolu"
+      },
+      {
+       "ing":"ship (þip)",
+       "tr":"gemi"
+      },
+      {
+       "ing":"map (mep)",
+       "tr":"harita"
+      },
+      {
+       "ing":"station (steyþýn)",
+       "tr":"istasyon"
+      },
+      {
+       "ing":"crowded (kraudýd)",
+       "tr":"kalabalýk"
+      },
+      {
+       "ing":"departure time (diparcýr taym)",
+       "tr":"kalkýþ saati"
+      },
+      {
+       "ing":"cabin (kebin)",
+       "tr":"kamara"
+      },
+      {
+       "ing":" truck (track)",
+       "tr":"kamyon"
+      },
+      {
+       "ing":"captain (keptýn)",
+       "tr":"kaptan"
+      },
+      {
+       "ing":"boat (bout)",
+       "tr":"kayýk"
+      },
+      {
+       "ing":"accident (eksidýnt)",
+       "tr":"kaza"
+      },
+      {
+       "ing":"bridge (bric)",
+       "tr":"köprü"
+      },
+      {
+       "ing":"at the corner (et dý kornýr)",
+       "tr":"köþede"
+      },
+      {
+       "ing":" port (port)",
+       "tr":"liman"
+      },
+      {
+       "ing":"square (sýkveer)",
+       "tr":"meydan(alan)"
+      },
+      {
+       "ing":"bus (bas)",
+       "tr":"otobüs"
+      },
+      {
+       "ing":"guide (gayd)",
+       "tr":"rehber"
+      },
+      {
+       "ing":"travel (trevýl)",
+       "tr":"seyahat"
+      },
+      {
+       "ing":"taxi (teksi)",
+       "tr":"taksi"
+      },
+      {
+       "ing":"tram (trem)",
+       "tr":"tramvay"
+      },
+      {
+       "ing":"train (treyn)",
+       "tr":"tren"
+      },
+      {
+       "ing":"aircraft (eirkraft)",
+       "tr":"ucak"
+      },
+      {
+       "ing":"arrival time (arayvýl taym)",
+       "tr":"varýþ saati"
+      },
+      {
+       "ing":"passenger (pesýncýr)",
+       "tr":"yolcu"
+      },
+      {
+       "ing":"passenger ship (pesýncýrþip)",
+       "tr":"yolcu gemisi"
+      },
+      {
+       "ing":"signboards-signs(saynboords-sayns)",
+       "tr":"tabelalar-iþaretler"
+      },
+      {
+       "ing":"open (oupýn)",
+       "tr":"acýk"
+      },
+      {
+       "ing":"gentlemen  (centýlmýn )",
+       "tr":"bay"
+      },
+      {
+       "ing":"ladies (leydiiz)",
+       "tr":"bayan"
+      },
+      {
+       "ing":"hairdresser (heirdýresýr)",
+       "tr":"berber"
+      },
+      {
+       "ing":"out of order (aut ov ordýr)",
+       "tr":"Kullaným dýþý"
+      },
+      {
+       "ing":"bazaar (býzaar)",
+       "tr":"carþý"
+      },
+      {
+       "ing":"pull (pul)",
+       "tr":"cekiniz"
+      },
+      {
+       "ing":"exit (eksit)",
+       "tr":"cýkýþ"
+      },
+      {
+       "ing":"enough (inaf)",
+       "tr":"yeterli"
+      },
+      {
+       "ing":"information (infýmeyþýn)",
+       "tr":"danýþma"
+      },
+      {
+       "ing":"attention (etenþýn)",
+       "tr":"dikkat"
+      },
+      {
+       "ing":"stop (stop)",
+       "tr":"dur"
+      },
+      {
+       "ing":"station/stop (steyþýn/stop)",
+       "tr":"durak"
+      },
+      {
+       "ing":"pharmacy (farmasi)",
+       "tr":"eczane"
+      },
+      {
+       "ing":"station (steyþýn)",
+       "tr":"gar"
+      },
+      {
+       "ing":"passage (pesýc)",
+       "tr":"gecit"
+      },
+      {
+       "ing":"keep out! (kiip aut)",
+       "tr":"girilmez"
+      },
+      {
+       "ing":"Entrance fee charged (Intrýns fi: caarcd)",
+       "tr":"Giriþ ücretli"
+      },
+      {
+       "ing":"entrance forbidden (entrýns forbidýn)",
+       "tr":"giriþ yasak"
+      },
+      {
+       "ing":"counter (keauntýr)",
+       "tr":"giþe"
+      },
+      {
+       "ing":"non-portable (nan-portýbýl)",
+       "tr":"taþýnmaz"
+      },
+      {
+       "ing":"discount (diskaunt)",
+       "tr":"indirim"
+      },
+      {
+       "ing":"push (puþ)",
+       "tr":"itiniz"
+      },
+      {
+       "ing":"closed (klouzd)",
+       "tr":"kapalý"
+      },
+      {
+       "ing":"for rent (for rent)",
+       "tr":"kiralýk"
+      },
+      {
+       "ing":"occupied (oküpayd)",
+       "tr":"meþgul,dolu"
+      },
+      {
+       "ing":"underground (andýrgraund)",
+       "tr":"metro"
+      },
+      {
+       "ing":"accountants office (ekauntýnts ofis)",
+       "tr":"muhasebe"
+      },
+      {
+       "ing":"director (dýrektýr)",
+       "tr":"müdür"
+      },
+      {
+       "ing":"museum (müziyým)",
+       "tr":"müze"
+      },
+      {
+       "ing":"coach station (kouc steyþýn)",
+       "tr":"otogar"
+      },
+      {
+       "ing":"car park (kar park)",
+       "tr":"otopark"
+      },
+      {
+       "ing":"post office (poust ofis)",
+       "tr":"postane"
+      },
+      {
+       "ing":"reserved (rizörvd)",
+       "tr":"reserve"
+      },
+      {
+       "ing":"for sale (for seyl)",
+       "tr":"satýlýk"
+      },
+      {
+       "ing":"free (frii)",
+       "tr":"serbest ,boþ"
+      },
+      {
+       "ing":"nosmoking! (no  smouking)",
+       "tr":"sigara icilmez"
+      },
+      {
+       "ing":"city centre (siti sentýr)",
+       "tr":"þehir merkezi"
+      },
+      {
+       "ing":"dangerous (dencýrýs)",
+       "tr":"tehlikeli"
+      },
+      {
+       "ing":"accommodation (ýkamýdeyþýn)",
+       "tr":"konaklama"
+      },
+      {
+       "ing":"key (kiy)",
+       "tr":"anahtar"
+      },
+      {
+       "ing":"mirror (mirýr)",
+       "tr":"ayna"
+      },
+      {
+       "ing":"garden (gaadýn)",
+       "tr":"bahce"
+      },
+      {
+       "ing":"balcony (belkýni)",
+       "tr":"balkon"
+      },
+      {
+       "ing":"bathroom (batfrum)",
+       "tr":"banyo"
+      },
+      {
+       "ing":"blanket (blenkýt)",
+       "tr":"battaniye"
+      },
+      {
+       "ing":"dishwasher (diþ voþýr)",
+       "tr":"bulaþýk makinesi"
+      },
+      {
+       "ing":"refrigerator (rifricýreytýr)",
+       "tr":"buzdolabý"
+      },
+      {
+       "ing":"washing machine (voþing meþiin)",
+       "tr":"camaþýr makinesi"
+      },
+      {
+       "ing":"bed sheet (bedþiit)",
+       "tr":"carþaf"
+      },
+      {
+       "ing":"wall (vool)",
+       "tr":"duvar"
+      },
+      {
+       "ing":"vacuum cleaner (vekyuum kliinýr)",
+       "tr":"elektrik süpürgesi"
+      },
+      {
+       "ing":"house (haus)",
+       "tr":"ev"
+      },
+      {
+       "ing":"price (prays)",
+       "tr":"fiyat"
+      },
+      {
+       "ing":"ventilation (ventileyþin)",
+       "tr":"havalandýrma"
+      },
+      {
+       "ing":"towel (tavýl)",
+       "tr":"havlu"
+      },
+      {
+       "ing":"door (door)",
+       "tr":"kapý"
+      },
+      {
+       "ing":"air-conditioning (eirkýndiiþýning)",
+       "tr":"klima"
+      },
+      {
+       "ing":"lamp (lemp)",
+       "tr":"lamba"
+      },
+      {
+       "ing":"sink, wash-basin (sink, voþbeysýn)",
+       "tr":"lavabo"
+      },
+      {
+       "ing":"table (teybýl)",
+       "tr":"masa"
+      },
+      {
+       "ing":"stairs (steýrs)",
+       "tr":"merdiven(ler)"
+      },
+      {
+       "ing":"kitchen (kicýn)",
+       "tr":"mutfak"
+      },
+      {
+       "ing":"room (ruum)",
+       "tr":"oda"
+      },
+      {
+       "ing":"room  service (rum sö:vis)",
+       "tr":"oda servisi"
+      },
+      {
+       "ing":"hotel (houtel)",
+       "tr":"otel"
+      },
+      {
+       "ing":"window (vindou)",
+       "tr":"pencere"
+      },
+      {
+       "ing":"curtain (körtýn)",
+       "tr":"perde"
+      },
+      {
+       "ing":"beach (biic)",
+       "tr":"plaj"
+      },
+      {
+       "ing":"soap (soup)",
+       "tr":"sabun"
+      },
+      {
+       "ing":"service (sörvis)",
+       "tr":"servis"
+      },
+      {
+       "ing":"shampoo (þempuu)",
+       "tr":"þampuan"
+      },
+      {
+       "ing":"full board (fulboord)",
+       "tr":"tam pansiyon"
+      },
+      {
+       "ing":"television (televijýn)",
+       "tr":"televizyon"
+      },
+      {
+       "ing":"razor blade (reyzýr bleyd)",
+       "tr":"traþ býcaðý"
+      },
+      {
+       "ing":"toilet (toylýt)",
+       "tr":"tuvalet"
+      },
+      {
+       "ing":"toilet-paper (toylýtpeypýr)",
+       "tr":"tuvalet kaðýdý"
+      },
+      {
+       "ing":"iron (ayrýn)",
+       "tr":"ütü"
+      },
+      {
+       "ing":"pillow (pilou)",
+       "tr":"yastýk"
+      },
+      {
+       "ing":"bed (bed)",
+       "tr":"yatak"
+      },
+      {
+       "ing":"bedroom (bedrum)",
+       "tr":"yatak odasý"
+      },
+      {
+       "ing":"bedspread (bedspred)",
+       "tr":"yatak örtüsü"
+      },
+      {
+       "ing":"bell (bel)",
+       "tr":"zil"
+      },
+      {
+       "ing":"personal information (pörsýnýl infýmeyþýn)",
+       "tr":"kiþisel bilgiler"
+      },
+      {
+       "ing":"address (ýdres)",
+       "tr":"adres"
+      },
+      {
+       "ing":"single (singýl)",
+       "tr":"bekar"
+      },
+      {
+       "ing":"height-weight (hayt-weyt)",
+       "tr":"boy-kilo(aðýrlýk)"
+      },
+      {
+       "ing":"sex (seks)",
+       "tr":"cinsiyet"
+      },
+      {
+       "ing":"male(m) (meyl)",
+       "tr":"erkek(e)"
+      },
+      {
+       "ing":"married (meriid)",
+       "tr":"evli"
+      },
+      {
+       "ing":"signature (signicýr)",
+       "tr":"imza"
+      },
+      {
+       "ing":"female(f) (fiimeyl)",
+       "tr":"kadýn(k)"
+      },
+      {
+       "ing":"marital status (meritýl steytýs)",
+       "tr":"medeni durum"
+      },
+      {
+       "ing":"profession (profeþýn)",
+       "tr":"meslek"
+      },
+      {
+       "ing":"country (kantri)",
+       "tr":"ülke "
+      },
+      {
+       "ing":"age (eyc)",
+       "tr":"yaþ"
+      },
+      {
+       "ing":"kitchen utensils (kicýn yutensils)",
+       "tr":"mutfak malzemeleri"
+      },
+      {
+       "ing":"glass (glas)",
+       "tr":"bardak"
+      },
+      {
+       "ing":"knife (nayf)",
+       "tr":"býcak"
+      },
+      {
+       "ing":"fork (fork)",
+       "tr":"catal"
+      },
+      {
+       "ing":"oven (ovýn)",
+       "tr":"fýrýn"
+      },
+      {
+       "ing":"spoon (spuun)",
+       "tr":"kaþýk"
+      },
+      {
+       "ing":"plate (pleyt)",
+       "tr":"tabak"
+      },
+      {
+       "ing":"hungry (hangri)",
+       "tr":"ac"
+      },
+      {
+       "ing":"dinner (dinýr)",
+       "tr":"akþam yemeði"
+      },
+      {
+       "ing":"bread (bred)",
+       "tr":"ekmek"
+      },
+      {
+       "ing":"meat (miit)",
+       "tr":"et"
+      },
+      {
+       "ing":"cup (kap)",
+       "tr":"fincan"
+      },
+      {
+       "ing":"bill (biýl)",
+       "tr":"hesap"
+      },
+      {
+       "ing":"scenery (siinýri)",
+       "tr":"manzara"
+      },
+      {
+       "ing":"table (teybýl)",
+       "tr":"masa"
+      },
+      {
+       "ing":"lunch (lanc)",
+       "tr":"öðle yemeði"
+      },
+      {
+       "ing":"napkin (neapkin)",
+       "tr":"pecete"
+      },
+      {
+       "ing":"sugar (þugýr)",
+       "tr":"þeker"
+      },
+      {
+       "ing":"tea (tii)",
+       "tr":"cay"
+      },
+      {
+       "ing":"full (ful)",
+       "tr":"tok"
+      },
+      {
+       "ing":"breakfast (brekfýst)",
+       "tr":"kahvaltý"
+      },
+      {
+       "ing":"honey (hani)",
+       "tr":"bal"
+      },
+      {
+       "ing":"omelette (omlýt)",
+       "tr":"omlet"
+      },
+      {
+       "ing":"cheese (chiiz)",
+       "tr":"peynir"
+      },
+      {
+       "ing":"salami (sýlaami)",
+       "tr":"salam"
+      },
+      {
+       "ing":"hot dog,sausage (hot dog,sosýc)",
+       "tr":"sossis "
+      },
+      {
+       "ing":"turkish salami (törkiþ sýlaami)",
+       "tr":"sucuk"
+      },
+      {
+       "ing":"butter (batýr)",
+       "tr":"tereyaðý"
+      },
+      {
+       "ing":"olives (olivs)",
+       "tr":"zeytin"
+      },
+      {
+       "ing":"soups (suups)",
+       "tr":"corbalar"
+      },
+      {
+       "ing":"mushroom soup (maþruum su:p)",
+       "tr":"mantar corbasý"
+      },
+      {
+       "ing":"lentil soup (lentýl su:p)",
+       "tr":"mercimek corbasý"
+      },
+      {
+       "ing":"vegetable soup (vectýbýl su:p)",
+       "tr":"sebze corbasý"
+      },
+      {
+       "ing":"chicken soup (cikýn su:p)",
+       "tr":"tavuk corbasý"
+      },
+      {
+       "ing":"salads (sealýds)",
+       "tr":"salatalar"
+      },
+      {
+       "ing":"shepherds salad (þefýrdz sealýd)",
+       "tr":"coban salata"
+      },
+      {
+       "ing":"salad of the season (sealýd ov dýsiizýn)",
+       "tr":"mevsim salatasý"
+      },
+      {
+       "ing":"potato salad (pýteytousealýd)",
+       "tr":"patates salatasý"
+      },
+      {
+       "ing":"russian salad (raþýnsealýd)",
+       "tr":"rus salatasý"
+      },
+      {
+       "ing":"green salad (gri:n salýd)",
+       "tr":"yeþil salata"
+      },
+      {
+       "ing":"liver (livýr)",
+       "tr":"ciðer"
+      },
+      {
+       "ing":"mashed potatoes (meaþd pýteytouz)",
+       "tr":"patates püre"
+      },
+      {
+       "ing":"pickles (pikýls)",
+       "tr":"turþu"
+      },
+      {
+       "ing":"yoghurt (yogurt)",
+       "tr":"yoðurt"
+      },
+      {
+       "ing":"main courses (mein koursýz)",
+       "tr":"ana yemekler"
+      },
+      {
+       "ing":"steak (steyk)",
+       "tr":"biftek"
+      },
+      {
+       "ing":"fillet of beef (filýt ov bi:f)",
+       "tr":"bonfile"
+      },
+      {
+       "ing":"kebab (Kiba:p)",
+       "tr":"kebap"
+      },
+      {
+       "ing":"macaroni (meakýrouni)",
+       "tr":"makarna"
+      },
+      {
+       "ing":"rice  (rays)",
+       "tr":"pilav"
+      },
+      {
+       "ing":"roast chicken (roust cikýn)",
+       "tr":"pilic kýzartma"
+      },
+      {
+       "ing":"fish (fiþ)",
+       "tr":"balýk"
+      },
+      {
+       "ing":"mussel (masýl)",
+       "tr":"midye"
+      },
+      {
+       "ing":"dessert (dizört)",
+       "tr":"tatlý"
+      },
+      {
+       "ing":"ice cream (ayskriim)",
+       "tr":"dondurma"
+      },
+      {
+       "ing":"fruit salad (fruut sealýd)",
+       "tr":"meyve salatasý"
+      },
+      {
+       "ing":"cake (keyk)",
+       "tr":"pasta"
+      },
+      {
+       "ing":"pear (peer)",
+       "tr":"armut"
+      },
+      {
+       "ing":"strawberry (strovbýri)",
+       "tr":"cilek"
+      },
+      {
+       "ing":"apple (epýl)",
+       "tr":"elma"
+      },
+      {
+       "ing":"grapefruit (greypfruut)",
+       "tr":"greyfurt"
+      },
+      {
+       "ing":"melon (melýn)",
+       "tr":"kavun"
+      },
+      {
+       "ing":"water melon (votýrmelýn)",
+       "tr":"karpuz"
+      },
+      {
+       "ing":"cherry (ceri)",
+       "tr":"kiraz"
+      },
+      {
+       "ing":"banana (býnaana)",
+       "tr":"muz"
+      },
+      {
+       "ing":"pomegranate (pomigreanit)",
+       "tr":"nar"
+      },
+      {
+       "ing":"orange (orýnc)",
+       "tr":"portakal"
+      },
+      {
+       "ing":"peach (piyc)",
+       "tr":"þeftali"
+      },
+      {
+       "ing":"vegetables (vectýbýls)",
+       "tr":"sebzeler"
+      },
+      {
+       "ing":"peas (piiys)",
+       "tr":"bezelye"
+      },
+      {
+       "ing":"pepper (pepýr)",
+       "tr":"biber"
+      },
+      {
+       "ing":"tomato (týmaato)",
+       "tr":"domates"
+      },
+      {
+       "ing":"beans (biyns)",
+       "tr":"fasulye"
+      },
+      {
+       "ing":"carrot (kearýt)",
+       "tr":"havuc"
+      },
+      {
+       "ing":"spinach (spinýc)",
+       "tr":"ýspanak"
+      },
+      {
+       "ing":"lentil (lentil)",
+       "tr":"mercimek"
+      },
+      {
+       "ing":"corn (korn)",
+       "tr":"mýsýr"
+      },
+      {
+       "ing":"chickpeas (cikpiys)",
+       "tr":"nohut"
+      },
+      {
+       "ing":"potato (pýteytou)",
+       "tr":"patates"
+      },
+      {
+       "ing":"aubergine (obýrjin)",
+       "tr":"patlýcan"
+      },
+      {
+       "ing":"cucumber (kyukambýr)",
+       "tr":"salatalýk"
+      },
+      {
+       "ing":"garlic (garlik)",
+       "tr":"sarýmsak"
+      },
+      {
+       "ing":"onion (aniyýn)",
+       "tr":"soðan"
+      },
+      {
+       "ing":"spices (spaysýs)",
+       "tr":"baharatlar"
+      },
+      {
+       "ing":"mint (mint)",
+       "tr":"nane"
+      },
+      {
+       "ing":"salt (solt)",
+       "tr":"tuz"
+      },
+      {
+       "ing":"drinks (drinks)",
+       "tr":"icecekler"
+      },
+      {
+       "ing":"mineral water (minýrýl vo:tý)",
+       "tr":"(soda)madensuyu"
+      },
+      {
+       "ing":"alcoholic drink (elkholik drink)",
+       "tr":"alkollü içki"
+      },
+      {
+       "ing":"beer (biýr)",
+       "tr":"bira"
+      },
+      {
+       "ing":"tea (tii)",
+       "tr":"çay"
+      },
+      {
+       "ing":"instant coffee (instýnt  kofi)",
+       "tr":"hazýr kahve"
+      },
+      {
+       "ing":"coke (kouk)",
+       "tr":"kola"
+      },
+      {
+       "ing":"cognac (konyeak)",
+       "tr":"konyak"
+      },
+      {
+       "ing":"liqueur (Likyö:r)",
+       "tr":"likör"
+      },
+      {
+       "ing":"lemonade (lemýneyd)",
+       "tr":"limonata"
+      },
+      {
+       "ing":"fruit juice (fruut cyüs)",
+       "tr":"meyve suyu"
+      },
+      {
+       "ing":"orange juice (orýnc cyüs)",
+       "tr":"portakal suyu"
+      },
+      {
+       "ing":"water (votýr)",
+       "tr":"su"
+      },
+      {
+       "ing":"milk (miýlk)",
+       "tr":"süt"
+      },
+      {
+       "ing":"turkish coffee (törkiþkofi)",
+       "tr":"türk kahvesi"
+      },
+      {
+       "ing":"mobile phone (mobayl foun)",
+       "tr":"cep telefonu"
+      },
+      {
+       "ing":"lighter (laytýr)",
+       "tr":"cakmak"
+      },
+      {
+       "ing":"glasses (gla:sýs)",
+       "tr":"gözlük"
+      },
+      {
+       "ing":"sunglasses (sangla:sýs)",
+       "tr":"güneþ gözlüðü"
+      },
+      {
+       "ing":"business card (biznýs kard)",
+       "tr":"kartvizit"
+      },
+      {
+       "ing":"belt (belt)",
+       "tr":"kemer"
+      },
+      {
+       "ing":"wrist watch (rist voc)",
+       "tr":"kol saati"
+      },
+      {
+       "ing":"credit card (kredit kard)",
+       "tr":"kredi kartý"
+      },
+      {
+       "ing":"earrings (iýringz)",
+       "tr":"küpe"
+      },
+      {
+       "ing":"cigarette (sigýret)",
+       "tr":"sigara"
+      },
+      {
+       "ing":"hat (het)",
+       "tr":"þapka"
+      },
+      {
+       "ing":"umbrella (ambrela)",
+       "tr":"þemsiye"
+      },
+      {
+       "ing":"ring (ring)",
+       "tr":"yüzük"
+      },
+      {
+       "ing":"toothbrush (tuuthbraþ)",
+       "tr":"diþ fýrcasý"
+      },
+      {
+       "ing":"toothpaste (tuuthpeyst)",
+       "tr":"diþ macunu"
+      },
+      {
+       "ing":"cologne (kýloun)",
+       "tr":"kolanya"
+      },
+      {
+       "ing":"cotton wool (katýn vuul)",
+       "tr":"pamuk"
+      },
+      {
+       "ing":"perfume (pörfyuum)",
+       "tr":"parfüm"
+      },
+      {
+       "ing":"lipstick (lipstik)",
+       "tr":"ruj"
+      },
+      {
+       "ing":"soap (soup)",
+       "tr":"sabun"
+      },
+      {
+       "ing":"razor (reyzýr)",
+       "tr":"týraþ býcaðý"
+      },
+      {
+       "ing":"clothing (klouting)",
+       "tr":"giyecekler"
+      },
+      {
+       "ing":"shoes (þuuz)",
+       "tr":"ayakkabý"
+      },
+      {
+       "ing":"jeans (ciinz)",
+       "tr":"kot"
+      },
+      {
+       "ing":"blouse (blauz)",
+       "tr":"bluz"
+      },
+      {
+       "ing":"bathrobe (bathroub)",
+       "tr":"bornoz"
+      },
+      {
+       "ing":"jacket (cekýt)",
+       "tr":"ceket"
+      },
+      {
+       "ing":"socks (soks)",
+       "tr":"corap"
+      },
+      {
+       "ing":"dress (dres)",
+       "tr":"elbise"
+      },
+      {
+       "ing":"skirt (skört)",
+       "tr":"etek"
+      },
+      {
+       "ing":"shirt (þört)",
+       "tr":"gömlek"
+      },
+      {
+       "ing":"underwear (andýrveer)",
+       "tr":"ic camaþýrý"
+      },
+      {
+       "ing":"tie (taay)",
+       "tr":"kravat"
+      },
+      {
+       "ing":"trousers (trauzýrs)",
+       "tr":"pantolon"
+      },
+      {
+       "ing":"pants (pents)",
+       "tr":"pantolon"
+      },
+      {
+       "ing":"pyjamas (pýcaamýz)",
+       "tr":"pijama"
+      },
+      {
+       "ing":"shorts (þorts)",
+       "tr":"þort"
+      },
+      {
+       "ing":"suit (süüt)",
+       "tr":"takým elbise"
+      },
+      {
+       "ing":"slippers (slipýrs)",
+       "tr":"terlik"
+      },
+      {
+       "ing":"t-shirt (tiiþört)",
+       "tr":"tiþört"
+      },
+      {
+       "ing":"weather  (vedý:)",
+       "tr":"hava durumu"
+      },
+      {
+       "ing":"moon (muun)",
+       "tr":"ay"
+      },
+      {
+       "ing":"cloudy (klaudi)",
+       "tr":"bulutlu"
+      },
+      {
+       "ing":"frosty (frosti)",
+       "tr":"buzlu"
+      },
+      {
+       "ing":"temperature (tempricýr)",
+       "tr":"derece"
+      },
+      {
+       "ing":"hail (heyl)",
+       "tr":"dolu"
+      },
+      {
+       "ing":"frost (frost)",
+       "tr":"don"
+      },
+      {
+       "ing":"storm (storm)",
+       "tr":"fýrtýna"
+      },
+      {
+       "ing":"sky (skay)",
+       "tr":"gökyüzü"
+      },
+      {
+       "ing":"sunny (sani)",
+       "tr":"güneþli"
+      },
+      {
+       "ing":"warm (vorm)",
+       "tr":"ýlýk"
+      },
+      {
+       "ing":"climate (klaymýt)",
+       "tr":"iklim"
+      },
+      {
+       "ing":"snow (snou)",
+       "tr":"kar"
+      },
+      {
+       "ing":"snowy (snouvi)",
+       "tr":"karlý"
+      },
+      {
+       "ing":"wind (vind)",
+       "tr":"rüzgar"
+      },
+      {
+       "ing":"windy (vindi)",
+       "tr":"rüzgarlý"
+      },
+      {
+       "ing":"cool (kuul)",
+       "tr":"serin"
+      },
+      {
+       "ing":"hot (hat)",
+       "tr":"sýcak"
+      },
+      {
+       "ing":"fog (fog)",
+       "tr":"sis"
+      },
+      {
+       "ing":"cold (kold)",
+       "tr":"soðuk"
+      },
+      {
+       "ing":"lightning (laytning)",
+       "tr":"þimþek"
+      },
+      {
+       "ing":"economy-law-politics (ikonými-lou-polýtiks)",
+       "tr":"iktisat-hukuk-politika"
+      },
+      {
+       "ing":"supply (sýplay)",
+       "tr":"arz"
+      },
+      {
+       "ing":"minister (ministýr)",
+       "tr":"bakan"
+      },
+      {
+       "ing":"ministry (ministri)",
+       "tr":"bakanlýk"
+      },
+      {
+       "ing":"prime minister (praym ministýr)",
+       "tr":"baþbakan"
+      },
+      {
+       "ing":"capital (keapitýl)",
+       "tr":"baþkent"
+      },
+      {
+       "ing":"mayor (meyýr)",
+       "tr":"belediye baþkaný"
+      },
+      {
+       "ing":"stock exchange (stok iksceync)",
+       "tr":"borsa"
+      },
+      {
+       "ing":"president (prezidýnt)",
+       "tr":"cumhurbaþkaný"
+      },
+      {
+       "ing":"democracy (dimokrýsi)",
+       "tr":"demokrasi"
+      },
+      {
+       "ing":"income (inkam)",
+       "tr":"gelir"
+      },
+      {
+       "ing":"prison (prizýn)",
+       "tr":"hapishane"
+      },
+      {
+       "ing":"government (gavýrmýnt)",
+       "tr":"hükümet"
+      },
+      {
+       "ing":"export (iksport)",
+       "tr":"ihracat"
+      },
+      {
+       "ing":"enterprise (entýrprays)",
+       "tr":"iþletme"
+      },
+      {
+       "ing":"import (import)",
+       "tr":"ithalat"
+      },
+      {
+       "ing":"illegal (iliigýl)",
+       "tr":"kanunsuz"
+      },
+      {
+       "ing":"gain (geyn)",
+       "tr":"kar"
+      },
+      {
+       "ing":"law court (lou kort)",
+       "tr":"mahkeme"
+      },
+      {
+       "ing":"goods (guudz)",
+       "tr":"mal"
+      },
+      {
+       "ing":"parliament (parlimýnt)",
+       "tr":"meclis"
+      },
+      {
+       "ing":"money (mani)",
+       "tr":"para"
+      },
+      {
+       "ing":"political party (pýlitikýl parti)",
+       "tr":"parti(siyasi)"
+      },
+      {
+       "ing":"market (markýt)",
+       "tr":"pazar"
+      },
+      {
+       "ing":"propaganda (propýgenda)",
+       "tr":"propaganda"
+      },
+      {
+       "ing":"election (ýlekþýn)",
+       "tr":"secim"
+      },
+      {
+       "ing":"elector (ýlektýr)",
+       "tr":"secmen"
+      },
+      {
+       "ing":"capital (keapitýl)",
+       "tr":"sermaye"
+      },
+      {
+       "ing":"suspect (sýspekt)",
+       "tr":"þüpheli"
+      },
+      {
+       "ing":"pistol (pistýl)",
+       "tr":"tabanca"
+      },
+      {
+       "ing":"gun (gan)",
+       "tr":"tabanca"
+      },
+      {
+       "ing":"demand (dimend)",
+       "tr":"talep"
+      },
+      {
+       "ing":"savings (seyvings)",
+       "tr":"tasarruf"
+      },
+      {
+       "ing":"prisoner (prizýnýr)",
+       "tr":"tutuklu"
+      },
+      {
+       "ing":"production (prodakþýn)",
+       "tr":"üretim"
+      },
+      {
+       "ing":"judge (cac)",
+       "tr":"yargýc"
+      },
+      {
+       "ing":"legal (liigýl)",
+       "tr":"yasal"
+      },
+      {
+       "ing":"investment (investmýnt)",
+       "tr":"yatýrým"
+      },
+      {
+       "ing":"damage (demýc)",
+       "tr":"zarar"
+      },
+      {
+       "ing":"customs (kastýmz)",
+       "tr":"gümrük"
+      },
+      {
+       "ing":"work permit (vörk pörmit)",
+       "tr":"calýþma izni"
+      },
+      {
+       "ing":"information office (infýrmeyþýn ofis)",
+       "tr":"danýþma bürosu"
+      },
+      {
+       "ing":"place of birth (pleys ov bört)",
+       "tr":"doðum yeri"
+      },
+      {
+       "ing":"left luggage (left lagýc)",
+       "tr":"emanet"
+      },
+      {
+       "ing":"papers (peypýrs)",
+       "tr":"evraklar"
+      },
+      {
+       "ing":"customs control (kastýms kýntrol)",
+       "tr":"gümrük kontrolü"
+      },
+      {
+       "ing":"duty-free (dyutifri)",
+       "tr":"gümrüksüz"
+      },
+      {
+       "ing":"signature (signicý)",
+       "tr":"imza"
+      },
+      {
+       "ing":"lost property (lost propýti)",
+       "tr":"kayýp eþya"
+      },
+      {
+       "ing":"maiden name (meydýn neym)",
+       "tr":"kýzlýk soyadý"
+      },
+      {
+       "ing":"identity card (aydentiti kard)",
+       "tr":"kimlik"
+      },
+      {
+       "ing":"consulate (kansýleyt)",
+       "tr":"konsolosluk"
+      },
+      {
+       "ing":"residence permit (rezidýns pörmit)",
+       "tr":"oturma izni"
+      },
+      {
+       "ing":"passport (pasport)",
+       "tr":"pasaport"
+      },
+      {
+       "ing":"border (bordýr)",
+       "tr":"sýnýr"
+      },
+      {
+       "ing":"nationality (neyþýneality)",
+       "tr":"uyruk"
+      },
+      {
+       "ing":"extend (ikstend)",
+       "tr":"uzatma"
+      },
+      {
+       "ing":"luggage (lagýc)",
+       "tr":"valiz"
+      },
+      {
+       "ing":"visa (viza)",
+       "tr":"vize"
+      },
+      {
+       "ing":"animals (enimýls)",
+       "tr":"hayvanlar"
+      },
+      {
+       "ing":"horse (hors)",
+       "tr":"at"
+      },
+      {
+       "ing":"bear (beer)",
+       "tr":"ayý"
+      },
+      {
+       "ing":"fish (fiþ)",
+       "tr":"balýk"
+      },
+      {
+       "ing":"bull (bul)",
+       "tr":"boða"
+      },
+      {
+       "ing":"pig (pig)",
+       "tr":"domuz"
+      },
+      {
+       "ing":"elephant (elýfýnt)",
+       "tr":"fil"
+      },
+      {
+       "ing":"cow (keau)",
+       "tr":"inek"
+      },
+      {
+       "ing":"turtle (törtýl)",
+       "tr":"kaplumbaða"
+      },
+      {
+       "ing":"cat (ket)",
+       "tr":"kedi"
+      },
+      {
+       "ing":"sheep (þiip)",
+       "tr":"koyun"
+      },
+      {
+       "ing":"dog (dog)",
+       "tr":"köpek"
+      },
+      {
+       "ing":"shark (þark)",
+       "tr":"köpekbalýðý"
+      },
+      {
+       "ing":"frog (frog)",
+       "tr":"kurbaða"
+      },
+      {
+       "ing":"wolf (volf)",
+       "tr":"kurt"
+      },
+      {
+       "ing":"monkey (manki)",
+       "tr":"maymun"
+      },
+      {
+       "ing":"duck (dak)",
+       "tr":"ördek"
+      },
+      {
+       "ing":"chicken (cikýn)",
+       "tr":"tavuk"
+      },
+      {
+       "ing":"fox (foks)",
+       "tr":"tilki"
+      },
+      {
+       "ing":"crocodile (kýrokýdayýl)",
+       "tr":"timsah"
+      },
+      {
+       "ing":"snake (sneyk)",
+       "tr":"yýlan"
+      },
+      {
+       "ing":"prepositions (prepýziþýns)",
+       "tr":"edatlar"
+      },
+      {
+       "ing":"under (andýr)",
+       "tr":"altýnda,altýna"
+      },
+      {
+       "ing":"between (bitviin)",
+       "tr":"arasýnda"
+      },
+      {
+       "ing":"after (aftýr)",
+       "tr":"ardýndan"
+      },
+      {
+       "ing":"behind (bihaynd)",
+       "tr":"arkasýnda"
+      },
+      {
+       "ing":"in,at (in,et)",
+       "tr":"-de,-da"
+      },
+      {
+       "ing":"since (sins)",
+       "tr":"-den beri"
+      },
+      {
+       "ing":"for (for)",
+       "tr":"-den dolayý,icin"
+      },
+      {
+       "ing":"before (bifoor)",
+       "tr":"-den önce"
+      },
+      {
+       "ing":"From (from)",
+       "tr":"-den,-dan"
+      },
+      {
+       "ing":"outside (autsayd)",
+       "tr":"dýþýnda"
+      },
+      {
+       "ing":"Till (tiyl)",
+       "tr":"e kadar"
+      },
+      {
+       "ing":"around (eraund)",
+       "tr":"etrafýnda"
+      },
+      {
+       "ing":"about (ebaut)",
+       "tr":"hakkýnda"
+      },
+      {
+       "ing":"except (iksept)",
+       "tr":"haric"
+      },
+      {
+       "ing":"Into (intu)",
+       "tr":"icine"
+      },
+      {
+       "ing":"with,by (vit,bay)",
+       "tr":"ile"
+      },
+      {
+       "ing":"against (egentst)",
+       "tr":"karþý"
+      },
+      {
+       "ing":"without (vidaut)",
+       "tr":"siz,sýz"
+      },
+      {
+       "ing":"during (dyu:ring)",
+       "tr":"süresince"
+      },
+      {
+       "ing":"by (bay)",
+       "tr":"tarafýndan"
+      },
+      {
+       "ing":"over (ouvýr)",
+       "tr":"üzerinde"
+      },
+      {
+       "ing":"near (niýr)",
+       "tr":"yanýnda"
+      },
+      {
+       "ing":"above (ýbav)",
+       "tr":"yukarýsýnda"
+      },
+      {
+       "ing":"how much (hav mac)",
+       "tr":"ne kadar "
+      },
+      {
+       "ing":"how many (hav meni)",
+       "tr":"ne kadar (sayýlabilen)"
+      },
+      {
+       "ing":"when (ven)",
+       "tr":"ne zaman"
+      },
+      {
+       "ing":"how (hav)",
+       "tr":"nasýl"
+      },
+      {
+       "ing":"which (vic)",
+       "tr":"hangi"
+      },
+      {
+       "ing":"flower (fýlavý)",
+       "tr":"cicek"
+      },
+      {
+       "ing":"lend  (lend)",
+       "tr":"ödünc vermek"
+      },
+      {
+       "ing":"borrow (borou)",
+       "tr":"ödünc almak"
+      },
+      {
+       "ing":"history (histry)",
+       "tr":"tarih"
+      },
+      {
+       "ing":"sale (seyl)",
+       "tr":"indirim"
+      },
+      {
+       "ing":"car (kar)",
+       "tr":"araba"
+      },
+      {
+       "ing":"crash (kreþ)",
+       "tr":"kaza"
+      },
+      {
+       "ing":"ashtray (eþtirey)",
+       "tr":"küllük"
+      },
+      {
+       "ing":"hair (heyýr)",
+       "tr":"sac"
+      },
+      {
+       "ing":"awful  (ovfýl)",
+       "tr":"berbat rezil"
+      },
+      {
+       "ing":"after (aftýr)",
+       "tr":"sonra"
+      },
+      {
+       "ing":"both  (both)",
+       "tr":"ikisi de"
+      },
+      {
+       "ing":"whom (hum)",
+       "tr":"kime"
+      },
+      {
+       "ing":"whose (huus)",
+       "tr":"kimin"
+      },
+      {
+       "ing":"only (onli)",
+       "tr":"sadece"
+      },
+      {
+       "ing":"pork (pork)",
+       "tr":"domuz eti"
+      },
+        {
+         "ing":"clever (klevý)",
+         "tr":"akýllý"
+        },
+        {
+         "ing":"skilful (skilful)",
+         "tr":"becerikli"
+        },
+        {
+         "ing":"selfish (selfiþ)",
+         "tr":"bencil"
+        },
+        {
+         "ing":"empty (empti)",
+         "tr":"boþ"
+        },
+        {
+         "ing":"ugly (agli)",
+         "tr":"cirkin"
+        },
+        {
+         "ing":"religious (rilicýs)",
+         "tr":"dindar"
+        },
+        {
+         "ing":"late (leyt)",
+         "tr":"gec"
+        },
+        {
+         "ing":"proud (praud)",
+         "tr":"gururlu"
+        },
+        {
+         "ing":"strong (strong)",
+         "tr":"güclü,kuvvetli"
+        },
+        {
+         "ing":"weak (viik)",
+         "tr":"gücsüz"
+        },
+        {
+         "ing":"reliable (rilaybýl)",
+         "tr":"Güvenilir (insan)"
+        },
+        {
+         "ing":"unreliable (anrilayýbýl)",
+         "tr":"güvenilmez"
+        },
+        {
+         "ing":"beautiful (biutifýl)",
+         "tr":"güzel"
+        },
+        {
+         "ing":"wet (vet)",
+         "tr":"ýslak,nemli"
+        },
+        {
+         "ing":" huge ( hüuc )",
+         "tr":"iriyarý, kocaman"
+        },
+        {
+         "ing":"fine (fayn)",
+         "tr":"iyi"
+        },
+        {
+         "ing":"angry (engrii)",
+         "tr":"kýzgýn"
+        },
+        {
+         "ing":"easy (iizi)",
+         "tr":"kolay"
+        },
+        {
+         "ing":"dry (dray)",
+         "tr":"kuru"
+        },
+        {
+         "ing":"delicious (diliþýs)",
+         "tr":"lezzetli"
+        },
+        {
+         "ing":"expensive (ikspensiv)",
+         "tr":"pahalý"
+        },
+        {
+         "ing":"patient (peyþýnt)",
+         "tr":"sabýrlý"
+        },
+        {
+         "ing":"impatient (impeyþýnt)",
+         "tr":"sabýrsýz"
+        },
+        {
+         "ing":"blonde (blond)",
+         "tr":"sarýþýn"
+        },
+        {
+         "ing":"fat (fet)",
+         "tr":"þiþman"
+        },
+        {
+         "ing":"cheap (ciip)",
+         "tr":"ucuz"
+        },
+        {
+         "ing":"shy (þay)",
+         "tr":"utangac"
+        },
+        {
+         "ing":"handsome (hendsým)",
+         "tr":"yakýþýklý"
+        },
+        {
+         "ing":"lonely (lounli)",
+         "tr":"yalnýz"
+        },
+        {
+         "ing":"adult (edalt)",
+         "tr":"yetiþkin"
+        },
+        {
+         "ing":"tired (tayýrd)",
+         "tr":"yorgun"
+        },
+        {
+         "ing":"intelligent (intelicýnt)",
+         "tr":"zeki"
+        },
+        {
+         "ing":"rich (ric)",
+         "tr":"zengin"
+        },
+        {
+         "ing":"difficult (difikýlt)",
+         "tr":"zor"
+        },
+        {
+         "ing":"open (oupýn)",
+         "tr":"acýk"
+        },
+        {
+         "ing":"learned (lörnd)",
+         "tr":"bilgili"
+        },
+        {
+         "ing":"friendly (frendli)",
+         "tr":"arkadaþ canlýsý"
+        },
+        {
+         "ing":"independent (indýpendýnt)",
+         "tr":"baðýmsýz"
+        },
+        {
+         "ing":"big (big)",
+         "tr":"büyük"
+        },
+        {
+         "ing":"attractive (ýtrektiv)",
+         "tr":"cazibeli,cekici"
+        },
+        {
+         "ing":"brave (breyv)",
+         "tr":"cesur"
+        },
+        {
+         "ing":"hard-working (hardvörking)",
+         "tr":"calýþkan"
+        },
+        {
+         "ing":"narrow (nerov)",
+         "tr":"dar"
+        },
+        {
+         "ing":"mad (med)",
+         "tr":"deli,cýlgýn"
+        },
+        {
+         "ing":"experienced (ikspiyriyýnst)",
+         "tr":"deneyimli"
+        },
+        {
+         "ing":"deep (diip)",
+         "tr":"derin"
+        },
+        {
+         "ing":"careful (keerfýl)",
+         "tr":"dikkatli"
+        },
+        {
+         "ing":"careless (keerlýs)",
+         "tr":"dikkatsiz"
+        },
+        {
+         "ing":"full (ful)",
+         "tr":"dolu"
+        },
+        {
+         "ing":"generous (Cenýrýs)",
+         "tr":"eli acýk,cömert"
+        },
+        {
+         "ing":"worried (Voriyd)",
+         "tr":"endiþeli"
+        },
+        {
+         "ing":"dark (Dark)",
+         "tr":"esmer"
+        },
+        {
+         "ing":"poor (Puur)",
+         "tr":"fakir"
+        },
+        {
+         "ing":"young (Yang)",
+         "tr":"genc"
+        },
+        {
+         "ing":"wide (Vayd)",
+         "tr":"geniþ"
+        },
+        {
+         "ing":"talkative (Tolkýtiv)",
+         "tr":"geveze"
+        },
+        {
+         "ing":"marvellous (marvýlýs)",
+         "tr":"harika"
+        },
+        {
+         "ing":"ambitious (embiþýs)",
+         "tr":"hýrslý,tutkulu"
+        },
+        {
+         "ing":"stubborn (stabýrn)",
+         "tr":"inatcý"
+        },
+        {
+         "ing":"thin (tin)",
+         "tr":"ince"
+        },
+        {
+         "ing":"thick (tik)",
+         "tr":"kalýn"
+        },
+        {
+         "ing":"dark (dark)",
+         "tr":"karanlýk"
+        },
+        {
+         "ing":"determined (ditörmind)",
+         "tr":"kararlý,azimli"
+        },
+        {
+         "ing":"carefree (keerfri:)",
+         "tr":"kaygýsýz"
+        },
+        {
+         "ing":"bald (bald)",
+         "tr":"kel"
+        },
+        {
+         "ing":"short (þort)",
+         "tr":"kýsa"
+        },
+        {
+         "ing":"jealous (celýs)",
+         "tr":"kýskanc"
+        },
+        {
+         "ing":"funny (fani)",
+         "tr":"komik"
+        },
+        {
+         "ing":"blind (blaynd)",
+         "tr":"kör"
+        },
+        {
+         "ing":"bad (bed)",
+         "tr":"kötü"
+        },
+        {
+         "ing":"auburn (oobýrn)",
+         "tr":"kumral"
+        },
+        {
+         "ing":"powerful (pavýrfýl)",
+         "tr":"kuvvetli"
+        },
+        {
+         "ing":"busy (bizi)",
+         "tr":"meþgul"
+        },
+        {
+         "ing":"happy (hepi)",
+         "tr":"mutlu"
+        },
+        {
+         "ing":"unhappy (anhepi)",
+         "tr":"mutsuz"
+        },
+        {
+         "ing":"excellent (eksýlýnt)",
+         "tr":"mükemmel"
+        },
+        {
+         "ing":"honest (anýst)",
+         "tr":"namuslu,dürüst"
+        },
+        {
+         "ing":"cheerful (ciirfýl)",
+         "tr":"neþeli"
+        },
+        {
+         "ing":"sympathetic (simpýtetik)",
+         "tr":"sempatik"
+        },
+        {
+         "ing":"nice (nays)",
+         "tr":"sevimli,tatlý"
+        },
+        {
+         "ing":"boring (booring)",
+         "tr":"sýkýcý"
+        },
+        {
+         "ing":"nervous (nörvýs)",
+         "tr":"sinirli"
+        },
+        {
+         "ing":"cold-blooded (koldbladýd)",
+         "tr":"soðukkanlý"
+        },
+        {
+         "ing":"lucky (laki)",
+         "tr":"þanslý"
+        },
+        {
+         "ing":"unlucky (anlaki)",
+         "tr":"þanssýz"
+        },
+        {
+         "ing":"spoiled (spoyld)",
+         "tr":"þýmarýk"
+        },
+        {
+         "ing":"lazy (leyzi)",
+         "tr":"tembel"
+        },
+        {
+         "ing":"small (smool)",
+         "tr":"ufak(kücük)"
+        },
+        {
+         "ing":"expert (ekspört)",
+         "tr":"uzman"
+        },
+        {
+         "ing":"long (long)",
+         "tr":"uzun"
+        },
+        {
+         "ing":"famous (feymýs)",
+         "tr":"ünlü"
+        },
+        {
+         "ing":"sad (sed)",
+         "tr":"üzgün"
+        },
+        {
+         "ing":"wild (vayld)",
+         "tr":"vahþi"
+        },
+        {
+         "ing":"creative (krieðtiv)",
+         "tr":"yaratýcý"
+        },
+        {
+         "ing":"helpful (helpfýl)",
+         "tr":"yardýmsever"
+        },
+        {
+         "ing":"old (ould)",
+         "tr":"yaþlý"
+        },
+        {
+         "ing":"slow (slov)",
+         "tr":"yavaþ"
+        },
+        {
+         "ing":"new (niyv)",
+         "tr":"yeni"
+        },
+        {
+         "ing":"explain (ikspleyn)",
+         "tr":"acýklamak"
+        },
+        {
+         "ing":"forgive (fo:giv)",
+         "tr":"affetmek"
+        },
+        {
+         "ing":"cry (kray)",
+         "tr":"aðlamak"
+        },
+        {
+         "ing":"agree (egrii)",
+         "tr":"anlaþmak"
+        },
+        {
+         "ing":"search (sörc)",
+         "tr":"araþtýrmak"
+        },
+        {
+         "ing":"separate (sepýreyt)",
+         "tr":"ayýrmak"
+        },
+        {
+         "ing":"leave (li:v)",
+         "tr":"ayrýlmak"
+        },
+        {
+         "ing":"start, begin (start,bigin)",
+         "tr":"baþlamak"
+        },
+        {
+         "ing":"wait (veyt)",
+         "tr":"beklemek"
+        },
+        {
+         "ing":"look like (luk layk)",
+         "tr":"benzemek"
+        },
+        {
+         "ing":"meet (miit)",
+         "tr":"buluþmak"
+        },
+        {
+         "ing":"grow (gýro:)",
+         "tr":"büyümek"
+        },
+        {
+         "ing":"answer,reply (ensýr,riplay)",
+         "tr":"cevap vermek"
+        },
+        {
+         "ing":"draw (dro:)",
+         "tr":"cizmek"
+        },
+        {
+         "ing":"consult (kýnsalt)",
+         "tr":"danýþmak"
+        },
+        {
+         "ing":"change (ceync)",
+         "tr":"deðiþtirmek"
+        },
+        {
+         "ing":"try (tray)",
+         "tr":"denemek"
+        },
+        {
+         "ing":"wish (viþ)",
+         "tr":"dilemek"
+        },
+        {
+         "ing":"fill (fil)",
+         "tr":"doldurmak"
+        },
+        {
+         "ing":"fall (fool)",
+         "tr":"düþmek"
+        },
+        {
+         "ing":"think (tink)",
+         "tr":"düþünmek"
+        },
+        {
+         "ing":"add (ed)",
+         "tr":"eklemek"
+        },
+        {
+         "ing":"develop (divelýp)",
+         "tr":"geliþtirmek"
+        },
+        {
+         "ing":"bring (bring)",
+         "tr":"getirmek"
+        },
+        {
+         "ing":"wear (veer)",
+         "tr":"giymek"
+        },
+        {
+         "ing":"trust (trast)",
+         "tr":"güvenmek"
+        },
+        {
+         "ing":"spend (spend)",
+         "tr":"harcamak"
+        },
+        {
+         "ing":"damage (demýc)",
+         "tr":"hasar vermek"
+        },
+        {
+         "ing":"imagine (imeecýn)",
+         "tr":"hayal etmek"
+        },
+        {
+         "ing":"feel (fiýl)",
+         "tr":"hissetmek"
+        },
+        {
+         "ing":"need (niid)",
+         "tr":"ihtiyacý olmak"
+        },
+        {
+         "ing":"sign (sayn)",
+         "tr":"imzalamak"
+        },
+        {
+         "ing":"believe (býliiv)",
+         "tr":"inanmak"
+        },
+        {
+         "ing":"want (vant)",
+         "tr":"istemek"
+        },
+        {
+         "ing":"earn (örn)",
+         "tr":"kazanmak(para)"
+        },
+        {
+         "ing":"smell (smel)",
+         "tr":"kokmak"
+        },
+        {
+         "ing":"protect (prýtekt)",
+         "tr":"korumak"
+        },
+        {
+         "ing":"dry (dray)",
+         "tr":"kurutmak"
+        },
+        {
+         "ing":"die (day)",
+         "tr":"ölmek"
+        },
+        {
+         "ing":"miss (mis)",
+         "tr":"özlemek"
+        },
+        {
+         "ing":"count (kaunt)",
+         "tr":"saymak(sayý)"
+        },
+        {
+         "ing":"ask (ask)",
+         "tr":"sormak"
+        },
+        {
+         "ing":"promise (promis)",
+         "tr":"söz vermek"
+        },
+        {
+         "ing":"sing (sing)",
+         "tr":"þarký söylemek"
+        },
+        {
+         "ing":"complain (kýmpleyn)",
+         "tr":"þikayet etmek"
+        },
+        {
+         "ing":"suspect (sýspekt)",
+         "tr":"þüphelenmek"
+        },
+        {
+         "ing":"mend, fix (mend, fix)",
+         "tr":"tamir etmek"
+        },
+        {
+         "ing":"carry (keri)",
+         "tr":"taþýmak"
+        },
+        {
+         "ing":"advise (ýdvayz)",
+         "tr":"tavsiye etmek"
+        },
+        {
+         "ing":"repeat (rýpiit)",
+         "tr":"tekrarlamak"
+        },
+        {
+         "ing":"deliver (dilivýr)",
+         "tr":"teslim etmek"
+        },
+        {
+         "ing":"fly (flay)",
+         "tr":"ucmak"
+        },
+        {
+         "ing":"hope (houp)",
+         "tr":"umut etmek"
+        },
+        {
+         "ing":"forget (fo:get)",
+         "tr":"unutmak"
+        },
+        {
+         "ing":"produce (pýrodü:s)",
+         "tr":"üretmek"
+        },
+        {
+         "ing":"write (rayt)",
+         "tr":"yazmak"
+        },
+        {
+         "ing":"guide (gayd)",
+         "tr":"yol göstermek"
+        },
+        {
+         "ing":"visit (vizit)",
+         "tr":"ziyaret etmek"
+        },
+        {
+         "ing":"be hungry (bi hangri)",
+         "tr":"acýkmak"
+        },
+        {
+         "ing":"open (oupýn)",
+         "tr":"acmak"
+        },
+        {
+         "ing":"belong to (bilong tu)",
+         "tr":"ait olmak"
+        },
+        {
+         "ing":"take (teyk)",
+         "tr":"almak"
+        },
+        {
+         "ing":"understand (andýstend)",
+         "tr":"anlamak"
+        },
+        {
+         "ing":"fall in love (fol in lav)",
+         "tr":"aþýk olmak"
+        },
+        {
+         "ing":"jump (camp)",
+         "tr":"atlamak"
+        },
+        {
+         "ing":"throw (trou)",
+         "tr":"atmak"
+        },
+        {
+         "ing":"stand up (stend ap)",
+         "tr":"ayakta durmak"
+        },
+        {
+         "ing":"adjust (ýdcast)",
+         "tr":"ayarlamak"
+        },
+        {
+         "ing":"bet (bet)",
+         "tr":"bahse girmek"
+        },
+        {
+         "ing":"fail (feyl)",
+         "tr":"baþaramamak"
+        },
+        {
+         "ing":"succeed (sýksiid)",
+         "tr":"baþarmak"
+        },
+        {
+         "ing":"know (nou)",
+         "tr":"bilmek"
+        },
+        {
+         "ing":"finish,end (finiþ,end)",
+         "tr":"bitirmek"
+        },
+        {
+         "ing":"paint (peynt)",
+         "tr":"boyamak"
+        },
+        {
+         "ing":"find (faynd)",
+         "tr":"bulmak"
+        },
+        {
+         "ing":"call (kool)",
+         "tr":"caðýrmak"
+        },
+        {
+         "ing":"work (vörk)",
+         "tr":"calýþmak"
+        },
+        {
+         "ing":"play (pley)",
+         "tr":"calmak(müzik)"
+        },
+        {
+         "ing":"invite (invayt)",
+         "tr":"davet etmek"
+        },
+        {
+         "ing":"continue (kýntinyu:)",
+         "tr":"devam etmek"
+        },
+        {
+         "ing":"notice (noutis)",
+         "tr":"dikkat etmek(farkýna varmak)"
+        },
+        {
+         "ing":"listen (lisýn)",
+         "tr":"dinlemek"
+        },
+        {
+         "ing":"rest (rest)",
+         "tr":"dinlenmek"
+        },
+        {
+         "ing":"touch (tac)",
+         "tr":"dokunmak"
+        },
+        {
+         "ing":"turn (törn)",
+         "tr":"dönmek"
+        },
+        {
+         "ing":"fight (fayt)",
+         "tr":"dövüþmek"
+        },
+        {
+         "ing":"get (get)",
+         "tr":"elde etmek"
+        },
+        {
+         "ing":"worry (vori)",
+         "tr":"endiþe etmek"
+        },
+        {
+         "ing":"postpone (pospoun)",
+         "tr":"ertelemek"
+        },
+        {
+         "ing":"blow (blou)",
+         "tr":"esmek(rüzgar)"
+        },
+        {
+         "ing":"affect (ýfeekt)",
+         "tr":"etkilemek"
+        },
+        {
+         "ing":"marry (meri)",
+         "tr":"evlenmek"
+        },
+        {
+         "ing":"come (kam)",
+         "tr":"gelmek"
+        },
+        {
+         "ing":"reject (ricekt)",
+         "tr":"geri cevirmek"
+        },
+        {
+         "ing":"return (ritörn)",
+         "tr":"geri dönmek"
+        },
+        {
+         "ing":"enter (entýr)",
+         "tr":"girmek"
+        },
+        {
+         "ing":"go (gou)",
+         "tr":"gitmek"
+        },
+        {
+         "ing":"send (send)",
+         "tr":"göndermek"
+        },
+        {
+         "ing":"see (sii)",
+         "tr":"görmek"
+        },
+        {
+         "ing":"show (þov)",
+         "tr":"göstermek"
+        },
+        {
+         "ing":"laugh (laaf)",
+         "tr":"gülmek"
+        },
+        {
+         "ing":"smile (smayl)",
+         "tr":"gülümsemek"
+        },
+        {
+         "ing":"make a mistake (meyk e misteyk)",
+         "tr":"hata yapmak"
+        },
+        {
+         "ing":"remember (rimembýr)",
+         "tr":"hatýrlamak"
+        },
+        {
+         "ing":"remind (rimaynd)",
+         "tr":"hatýrlatmak "
+        },
+        {
+         "ing":"prepare (pripeýr)",
+         "tr":"hazýrlamak"
+        },
+        {
+         "ing":"enjoy (incoy)",
+         "tr":"hoþlanmak"
+        },
+        {
+         "ing":"dislike (dislayk)",
+         "tr":"hoþlanmamak"
+        },
+        {
+         "ing":"contain (kýnteyn)",
+         "tr":"icermek"
+        },
+        {
+         "ing":"drink (drink)",
+         "tr":"icmek"
+        },
+        {
+         "ing":"build (biýld)",
+         "tr":"inþa etmek"
+        },
+        {
+         "ing":"point (point)",
+         "tr":"iþaret etmek"
+        },
+        {
+         "ing":"hear (hiýr)",
+         "tr":"iþitmek,duymak"
+        },
+        {
+         "ing":"object (ýbcekt)",
+         "tr":"itiraz etmek"
+        },
+        {
+         "ing":"push (puþ)",
+         "tr":"itmek"
+        },
+        {
+         "ing":"allow,permit (ýlau,pörmit)",
+         "tr":"izin vermek"
+        },
+        {
+         "ing":"accept (ýksept)",
+         "tr":"kabul etmek"
+        },
+        {
+         "ing":"escape (eskeyp )",
+         "tr":"kacmak"
+        },
+        {
+         "ing":"get up (get ap)",
+         "tr":"kalkmak"
+        },
+        {
+         "ing":"stay (stey)",
+         "tr":"kalmak(otel)"
+        },
+        {
+         "ing":"close,shut (klouz,þat)",
+         "tr":"kapatmak"
+        },
+        {
+         "ing":"decide (disayd)",
+         "tr":"karar vermek"
+        },
+        {
+         "ing":"mix (miks)",
+         "tr":"karýþtýrmak"
+        },
+        {
+         "ing":"compare (Kýmpe:r)",
+         "tr":"karþýlaþtýrmak"
+        },
+        {
+         "ing":"record (rikord)",
+         "tr":"kaydetmek"
+        },
+        {
+         "ing":"cut (kat)",
+         "tr":"kesmek"
+        },
+        {
+         "ing":"discover (diskavýr)",
+         "tr":"keþfetmek"
+        },
+        {
+         "ing":"break (breyk)",
+         "tr":"kýrmak"
+        },
+        {
+         "ing":"lock (lok)",
+         "tr":"kilitlemek"
+        },
+        {
+         "ing":"rent (rent)",
+         "tr":"kiralamak"
+        },
+        {
+         "ing":"check (cek)",
+         "tr":"kontrol etmek"
+        },
+        {
+         "ing":"speak,talk (spiik,tolk)",
+         "tr":"konuþmak"
+        },
+        {
+         "ing":"fear (fiýr)",
+         "tr":"korkmak"
+        },
+        {
+         "ing":"run (ran)",
+         "tr":"koþmak"
+        },
+        {
+         "ing":"use (yuuz)",
+         "tr":"kullanmak"
+        },
+        {
+         "ing":"wonder (vandýr)",
+         "tr":"merak etmek"
+        },
+        {
+         "ing":"cause (kouz)",
+         "tr":"neden olmak"
+        },
+        {
+         "ing":"hate,detest (heyt,ditest)",
+         "tr":"nefret etmek"
+        },
+        {
+         "ing":"read (riid)",
+         "tr":"okumak"
+        },
+        {
+         "ing":"be,become (bi,bikam)",
+         "tr":"olmak"
+        },
+        {
+         "ing":"confirm (kýnförm)",
+         "tr":"onaylamak"
+        },
+        {
+         "ing":"sit(down) (sit(daun))",
+         "tr":"oturmak"
+        },
+        {
+         "ing":"play (pley)",
+         "tr":"oynamak"
+        },
+        {
+         "ing":"pay (pey)",
+         "tr":"ödemek"
+        },
+        {
+         "ing":"learn (lörn)",
+         "tr":"öðrenmek"
+        },
+        {
+         "ing":"teach (tiic)",
+         "tr":"öðretmek"
+        },
+        {
+         "ing":"kill (kil)",
+         "tr":"öldürmek"
+        },
+        {
+         "ing":"kiss (kis)",
+         "tr":"öpmek"
+        },
+        {
+         "ing":"share (þeer)",
+         "tr":"paylaþmak"
+        },
+        {
+         "ing":"cook (kuuk)",
+         "tr":"piþirmek"
+        },
+        {
+         "ing":"disturb (distö:b)",
+         "tr":"rahatsýz etmek"
+        },
+        {
+         "ing":"reject ( ricekt)",
+         "tr":"reddetmek"
+        },
+        {
+         "ing":"request (rikuest)",
+         "tr":"rica etmek"
+        },
+        {
+         "ing":"dream (driim)",
+         "tr":"rüya görmek"
+        },
+        {
+         "ing":"hide (hayd)",
+         "tr":"saklanmak"
+        },
+        {
+         "ing":"buy (bay)",
+         "tr":"satýn almak"
+        },
+        {
+         "ing":"sell (sel)",
+         "tr":"satmak"
+        },
+        {
+         "ing":"defend (difend)",
+         "tr":"savunmak"
+        },
+        {
+         "ing":"select,choose (sýlekt,cuuz)",
+         "tr":"secmek"
+        },
+        {
+         "ing":"like,love (layk, lav)",
+         "tr":"sevmek"
+        },
+        {
+         "ing":"watch (voc)",
+         "tr":"seyretmek"
+        },
+        {
+         "ing":"smoke (smouk)",
+         "tr":"sigara icmek"
+        },
+        {
+         "ing":"erase (ireyz)",
+         "tr":"silmek"
+        },
+        {
+         "ing":"order (ordý:)",
+         "tr":"sipariþ vermek"
+        },
+        {
+         "ing":"say,tell (sey,tel)",
+         "tr":"söylemek"
+        },
+        {
+         "ing":"be thirsty (bi törsti)",
+         "tr":"susamak"
+        },
+        {
+         "ing":"drive (drayv)",
+         "tr":"sürmek(oto)"
+        },
+        {
+         "ing":"joke (couk)",
+         "tr":"þaka yapmak"
+        },
+        {
+         "ing":"surprise (sörprayz)",
+         "tr":"þaþýrtmak"
+        },
+        {
+         "ing":"guess (ges)",
+         "tr":"tahmin etmek"
+        },
+        {
+         "ing":"follow (fallou)",
+         "tr":"takip etmek"
+        },
+        {
+         "ing":"imitate (imiteyt)",
+         "tr":"taklit etmek"
+        },
+        {
+         "ing":"discuss (diskas)",
+         "tr":"tartýþmak "
+        },
+        {
+         "ing":"taste (teyst)",
+         "tr":"tatmak"
+        },
+        {
+         "ing":"congratulate (kýngratcýleyt)",
+         "tr":"tebrik etmek"
+        },
+        {
+         "ing":"cure (kyur)",
+         "tr":"tedavi etmek"
+        },
+        {
+         "ing":"threaten (tretýn)",
+         "tr":"tehdit etmek"
+        },
+        {
+         "ing":"offer (ofýr)",
+         "tr":"teklif etmek"
+        },
+        {
+         "ing":"telephone, call (telifoun, kool)",
+         "tr":"telefon etmek"
+        },
+        {
+         "ing":"contact (kýntakt)",
+         "tr":"temas kurmak"
+        },
+        {
+         "ing":"clean (Kýli:n)",
+         "tr":"temizlemek"
+        },
+        {
+         "ing":"prefer (priför)",
+         "tr":"tercih etmek"
+        },
+        {
+         "ing":"translate (transleyt)",
+         "tr":"tercüme etmek"
+        },
+        {
+         "ing":"thank (thenk)",
+         "tr":"teþekkür etmek"
+        },
+        {
+         "ing":"climb (klaym)",
+         "tr":"týrmanmak"
+        },
+        {
+         "ing":"hold (hould)",
+         "tr":"tutmak"
+        },
+        {
+         "ing":"arrive (ýrayv)",
+         "tr":"ulaþmak"
+        },
+        {
+         "ing":"wake up (veyk ap)",
+         "tr":"uyanmak"
+        },
+        {
+         "ing":"apply (eplay)",
+         "tr":"uygulamak"
+        },
+        {
+         "ing":"sleep (sliip)",
+         "tr":"uyumak"
+        },
+        {
+         "ing":"exist (igzist)",
+         "tr":"var olmak"
+        },
+        {
+         "ing":"cancel (kensýl)",
+         "tr":"vazgecmek"
+        },
+        {
+         "ing":"give (giv)",
+         "tr":"vermek"
+        },
+        {
+         "ing":"hit (hit)",
+         "tr":"vurmak"
+        },
+        {
+         "ing":"catch (kec)",
+         "tr":"yakalamak"
+        },
+        {
+         "ing":"burn,light (börn,layt)",
+         "tr":"yakmak"
+        },
+        {
+         "ing":"do,make (du,meyk)",
+         "tr":"yapmak"
+        },
+        {
+         "ing":"help (help)",
+         "tr":"yardým etmek"
+        },
+        {
+         "ing":"forbid (forbid)",
+         "tr":"yasaklamak"
+        },
+        {
+         "ing":"live (liv)",
+         "tr":"yaþamak"
+        },
+        {
+         "ing":"eat (iit)",
+         "tr":"yemek"
+        },
+        {
+         "ing":"catch (kec)",
+         "tr":"yetiþmek"
+        },
+        {
+         "ing":"wash (voþ)",
+         "tr":"yýkamak"
+        },
+        {
+         "ing":"travel (trevýl)",
+         "tr":"yolculuk etmek"
+        },
+        {
+         "ing":"direct (dayrekt)",
+         "tr":"yönetmek"
+        },
+        {
+         "ing":"walk (volk)",
+         "tr":"yürümek"
+        },
+        {
+         "ing":"swim (svim)",
+         "tr":"yüzmek"
+        },
+        {
+         "ing":"time (taym)",
+         "tr":"zaman"
+        },
+        {
+         "ing":"evening (iivning)",
+         "tr":"akþam"
+        },
+        {
+         "ing":"never (nevýr)",
+         "tr":"asla"
+        },
+        {
+         "ing":"sometimes (samtaymz)",
+         "tr":"bazen"
+        },
+        {
+         "ing":"always (olveys)",
+         "tr":"daima"
+        },
+        {
+         "ing":"often (ofýn)",
+         "tr":"sýk sýk"
+        },
+        {
+         "ing":"month (mant)",
+         "tr":"ay"
+        },
+        {
+         "ing":"today (tudey)",
+         "tr":"bugün"
+        },
+        {
+         "ing":"yesterday (yestýrdey)",
+         "tr":"dün"
+        },
+        {
+         "ing":"week (viik)",
+         "tr":"hafta"
+        },
+        {
+         "ing":"tomorrow (týmarrov)",
+         "tr":"yarýn "
+        },
+        {
+         "ing":"early (örli)",
+         "tr":"erken"
+        },
+        {
+         "ing":"night (nayt)",
+         "tr":"gece"
+        },
+        {
+         "ing":"last week (last viik)",
+         "tr":"gecen hafta"
+        },
+        {
+         "ing":"next week (nekst viik)",
+         "tr":"gelecek hafta"
+        },
+        {
+         "ing":"this week (dis viik)",
+         "tr":"bu hafta"
+        },
+        {
+         "ing":"past (past)",
+         "tr":"gecmiþ"
+        },
+        {
+         "ing":"future (fiucýr)",
+         "tr":"gelecek"
+        },
+        {
+         "ing":"day (dey)",
+         "tr":"gün"
+        },
+        {
+         "ing":"every day (evridey)",
+         "tr":"hergün"
+        },
+        {
+         "ing":"morning (Morning)",
+         "tr":"sabah"
+        },
+        {
+         "ing":"noon (Nuun)",
+         "tr":"öðle"
+        },
+        {
+         "ing":"afternoon (aftýrnuun)",
+         "tr":"öðleden sonra"
+        },
+        {
+         "ing":"hour (aur)",
+         "tr":"saat(süre)"
+        },
+        {
+         "ing":"second (sekýnd)",
+         "tr":"saniye"
+        },
+        {
+         "ing":"minute (minit)",
+         "tr":"dakika"
+        },
+        {
+         "ing":"year (yiýr)",
+         "tr":"yýl"
+        },
+        {
+         "ing":"days (deys)",
+         "tr":"günler"
+        },
+        {
+         "ing":"monday (mandey)",
+         "tr":"pazartesi"
+        },
+        {
+         "ing":"tuesday (tüuzdey)",
+         "tr":"salý"
+        },
+        {
+         "ing":"wednesday (venzdey)",
+         "tr":"carþamba"
+        },
+        {
+         "ing":"thursday (törzdey)",
+         "tr":"perþembe"
+        },
+        {
+         "ing":"friday (fraydey)",
+         "tr":"cuma"
+        },
+        {
+         "ing":"saturday (satýrdey)",
+         "tr":"cumartesi"
+        },
+        {
+         "ing":"sunday (sandey)",
+         "tr":"pazar"
+        },
+        {
+         "ing":"months (mants)",
+         "tr":"aylar"
+        },
+        {
+         "ing":"january (cenüiri)",
+         "tr":"ocak"
+        },
+        {
+         "ing":"february (februýri)",
+         "tr":"þubat"
+        },
+        {
+         "ing":"march (marc)",
+         "tr":"mart"
+        },
+        {
+         "ing":"april (eyprýl)",
+         "tr":"nisan"
+        },
+        {
+         "ing":"may (mey)",
+         "tr":"mayýs"
+        },
+        {
+         "ing":"june (cuun)",
+         "tr":"haziran"
+        },
+        {
+         "ing":"july (culay)",
+         "tr":"temmuz"
+        },
+        {
+         "ing":"august (ogýst)",
+         "tr":"aðustos"
+        },
+        {
+         "ing":"september (septembýr)",
+         "tr":"eylül"
+        },
+        {
+         "ing":"october (oktobýr)",
+         "tr":"ekim"
+        },
+        {
+         "ing":"november (novembýr)",
+         "tr":"kasým"
+        },
+        {
+         "ing":"december (disembýr)",
+         "tr":"aralýk"
+        },
+        {
+         "ing":"seasons (siizýns)",
+         "tr":"mevsimler"
+        },
+        {
+         "ing":"spring (spring)",
+         "tr":"ilkbahar"
+        },
+        {
+         "ing":"summer (samýr)",
+         "tr":"yaz"
+        },
+        {
+         "ing":"autumn (outým)",
+         "tr":"sonbahar"
+        },
+        {
+         "ing":"winter (vintýr)",
+         "tr":"kýþ"
+        },
+        {
+         "ing":"directions (dayrekþýns)",
+         "tr":"yönler"
+        },
+        {
+         "ing":"south (saut)",
+         "tr":"güney"
+        },
+        {
+         "ing":"north (nort)",
+         "tr":"kuzey"
+        },
+        {
+         "ing":"east (iist)",
+         "tr":"doðu"
+        },
+        {
+         "ing":"west (vest)",
+         "tr":"batý"
+        },
+        {
+         "ing":"north-east (nort-iist)",
+         "tr":"kuzey-doðu"
+        },
+        {
+         "ing":"north-west (nort-vest)",
+         "tr":"kuzey-batý"
+        },
+        {
+         "ing":"south-east (saut-iist)",
+         "tr":"güney-doðu"
+        },
+        {
+         "ing":"south-west (saut-vest)",
+         "tr":"güney-batý"
+        },
+        {
+         "ing":"colours (kalýrs)",
+         "tr":"renkler"
+        },
+        {
+         "ing":"white (vayt)",
+         "tr":"beyaz"
+        },
+        {
+         "ing":"grey (grey)",
+         "tr":"gri"
+        },
+        {
+         "ing":"silver (silvýr)",
+         "tr":"gümüþ(rengi)"
+        },
+        {
+         "ing":"brown (braun)",
+         "tr":"kahverengi"
+        },
+        {
+         "ing":"red (red)",
+         "tr":"kýrmýzý"
+        },
+        {
+         "ing":"blue (bluu)",
+         "tr":"mavi"
+        },
+        {
+         "ing":"purple (pörpýl)",
+         "tr":"mor"
+        },
+        {
+         "ing":"pink (pink)",
+         "tr":"pembe"
+        },
+        {
+         "ing":"yellow (yelou)",
+         "tr":"sarý"
+        },
+        {
+         "ing":"black (blek)",
+         "tr":"siyah"
+        },
+        {
+         "ing":"orange (orýnc)",
+         "tr":"turuncu"
+        },
+        {
+         "ing":"green (griin)",
+         "tr":"yeþil"
+        },
+        {
+         "ing":"family (femýli)",
+         "tr":"aile"
+        },
+        {
+         "ing":"relative (relýtiv)",
+         "tr":"akraba"
+        },
+        {
+         "ing":"mother (madýr)",
+         "tr":"anne"
+        },
+        {
+         "ing":"grandmother (grenmadýr)",
+         "tr":"anneanne"
+        },
+        {
+         "ing":"friend (frend)",
+         "tr":"arkadaþ"
+        },
+        {
+         "ing":"father (faadýr)",
+         "tr":"baba"
+        },
+        {
+         "ing":"single (singýl)",
+         "tr":"bekar"
+        },
+        {
+         "ing":"child (cayld)",
+         "tr":"cocuk"
+        },
+        {
+         "ing":"children (cýldrýn)",
+         "tr":"cocuklar"
+        },
+        {
+         "ing":"groom (gruum)",
+         "tr":"damat"
+        },
+        {
+         "ing":"uncle (ankýl)",
+         "tr":"dayý"
+        },
+        {
+         "ing":"grandfather (grenfa:dýr)",
+         "tr":"dede"
+        },
+        {
+         "ing":"parents (perýnts)",
+         "tr":"ebeveyn"
+        },
+        {
+         "ing":"brother (bradýr)",
+         "tr":"erkek kardeþ"
+        },
+        {
+         "ing":"married (meriid)",
+         "tr":"evli"
+        },
+        {
+         "ing":"bride (brayd)",
+         "tr":"gelin"
+        },
+        {
+         "ing":"aunt (aant)",
+         "tr":"hala,teyze,yenge"
+        },
+        {
+         "ing":"twin (tvin)",
+         "tr":"ikiz"
+        },
+        {
+         "ing":"wife (vayf)",
+         "tr":"kadýn eþ"
+        },
+        {
+         "ing":"father-in-law (faadýr in lou)",
+         "tr":"kayýnpeder"
+        },
+        {
+         "ing":"mother-in-law (madýrin lou)",
+         "tr":"kayýnvalide"
+        },
+        {
+         "ing":"girl friend (görl frend)",
+         "tr":"kýz arkadaþ"
+        },
+        {
+         "ing":"daughter (doutýr)",
+         "tr":"kýz evlat"
+        },
+        {
+         "ing":"sister (sistýr)",
+         "tr":"kýz kardeþ"
+        },
+        {
+         "ing":"husband (hazbýnd)",
+         "tr":"koca"
+        },
+        {
+         "ing":"cousin (kazýn)",
+         "tr":"kuzen"
+        },
+        {
+         "ing":"son (san)",
+         "tr":"oðul"
+        },
+        {
+         "ing":"grandchild (grendcayld)",
+         "tr":"torun"
+        },
+        {
+         "ing":"grandson (grendsan)",
+         "tr":"torun(erkek)"
+        },
+        {
+         "ing":"granddaughter (grenddoutýr)",
+         "tr":"torun(kýz)"
+        },
+        {
+         "ing":"occupations (okupeyþýns)",
+         "tr":"meslekler"
+        },
+        {
+         "ing":"cook (kuuk)",
+         "tr":"aþcý"
+        },
+        {
+         "ing":"lawyer (lovyýr)",
+         "tr":"avukat"
+        },
+        {
+         "ing":"judge (cac)",
+         "tr":"hakim"
+        },
+        {
+         "ing":"waiter (veytýr)",
+         "tr":"garson"
+        },
+        {
+         "ing":"farmer (farmýr)",
+         "tr":"ciftci"
+        },
+        {
+         "ing":"accountant (ekeauntýnt)",
+         "tr":"muhasebeci"
+        },
+        {
+         "ing":"retired (ritayýrd)",
+         "tr":"emekli"
+        },
+        {
+         "ing":"civil servant (sivýl sörvýnt)",
+         "tr":"memur"
+        },
+        {
+         "ing":"teacher (tiicýr)",
+         "tr":"öðretmen"
+        },
+        {
+         "ing":"journalist (cörnýlist)",
+         "tr":"gazeteci"
+        },
+        {
+         "ing":"nurse (nörs)",
+         "tr":"hemþire"
+        },
+        {
+         "ing":"reporter (riportýr)",
+         "tr":"muhabir"
+        },
+        {
+         "ing":"engineer (enciniýr)",
+         "tr":"mühendis"
+        },
+        {
+         "ing":"worker (vorkýr)",
+         "tr":"iþci"
+        },
+        {
+         "ing":"businessman (biznýsmýn)",
+         "tr":"iþ adamý"
+        },
+        {
+         "ing":"architect (arkitekt)",
+         "tr":"mimar"
+        },
+        {
+         "ing":"dentist (dentist)",
+         "tr":"diþci"
+        },
+        {
+         "ing":"housewife (hausvayf)",
+         "tr":"ev hanýmý"
+        },
+        {
+         "ing":"jeweller (cývýlý)",
+         "tr":"kuyumcu"
+        },
+        {
+         "ing":"cop (koup)",
+         "tr":"polis"
+        },
+        {
+         "ing":"artist (aartist)",
+         "tr":"ressam"
+        },
+        {
+         "ing":"interpreter (intörpritýr)",
+         "tr":"tercüman"
+        },
+        {
+         "ing":"tailor (teylýr)",
+         "tr":"terzi"
+        },
+        {
+         "ing":"author (ootý)",
+         "tr":"yazar"
+        },
+        {
+         "ing":"photographer (fýtogrýfýr)",
+         "tr":"fotorafcý"
+        },
+        {
+         "ing":"chemist (kemist)",
+         "tr":"eczacý"
+        },
+        {
+         "ing":"real estate agent (riýl isteyt eycýnt)",
+         "tr":"emlakcý"
+        },
+        {
+         "ing":"hostess (hýustes)",
+         "tr":"hostes"
+        },
+        {
+         "ing":"fireman (faayýrmýn)",
+         "tr":"itfaiyeci"
+        },
+        {
+         "ing":"musician (myuziþýn)",
+         "tr":"müzisyen"
+        },
+        {
+         "ing":"notary (nýutýri)",
+         "tr":"noter"
+        },
+        {
+         "ing":"electrician (ýlektriþýn)",
+         "tr":"elektirikci"
+        },
+        {
+         "ing":"pilot (paylýt)",
+         "tr":"pilot"
+        },
+        {
+         "ing":"hairdresser (heýrdresýr)",
+         "tr":"kuaför"
+        },
+        {
+         "ing":"postman (postmýn)",
+         "tr":"postacý"
+        },
+        {
+         "ing":"bookseller (bukselýr)",
+         "tr":"kitapcý"
+        },
+        {
+         "ing":"secretary (sekrýtýri)",
+         "tr":"sekreter"
+        },
+        {
+         "ing":"driver (drayvýr)",
+         "tr":"þoför"
+        },
+        {
+         "ing":"technician (tekniþýn)",
+         "tr":"teknisyen"
+        },
+        {
+         "ing":"doctor (daktýr)",
+         "tr":"doktor"
+        },
+        {
+         "ing":"soldier (solcýr)",
+         "tr":"asker"
+        },
+        {
+         "ing":"veterinarian (veterineiriýn)",
+         "tr":"veteriner"
+        },
+        {
+         "ing":"florist (florist)",
+         "tr":"cicekci"
+        },
+        {
+         "ing":"education (edyukeyþýn)",
+         "tr":"eðitim"
+        },
+        {
+         "ing":"kindergarten (kindýrgardýn)",
+         "tr":"anaokulu"
+        },
+        {
+         "ing":"computer (kompüutýr)",
+         "tr":"bilgisayar"
+        },
+        {
+         "ing":"ruler (ruulýr)",
+         "tr":"cetvel"
+        },
+        {
+         "ing":"answer (ensýr)",
+         "tr":"cevap"
+        },
+        {
+         "ing":"consultant (kýnsaltýnt)",
+         "tr":"danýþman"
+        },
+        {
+         "ing":"notebook (noutbuk)",
+         "tr":"defter"
+        },
+        {
+         "ing":"lesson (lessýn)",
+         "tr":"ders"
+        },
+        {
+         "ing":"schedule (sýkecyul)",
+         "tr":"ders programý"
+        },
+        {
+         "ing":"diploma (diplomý)",
+         "tr":"diploma"
+        },
+        {
+         "ing":"pen (pen)",
+         "tr":"dolma kalem"
+        },
+        {
+         "ing":"file (fayl)",
+         "tr":"dosya"
+        },
+        {
+         "ing":"faculty (feakýlti)",
+         "tr":"fakülte"
+        },
+        {
+         "ing":"calculator (kealkyuleytýr)",
+         "tr":"hesap makinesi"
+        },
+        {
+         "ing":"paper (peypýr)",
+         "tr":"kaðýt"
+        },
+        {
+         "ing":"book (buk)",
+         "tr":"kitap"
+        },
+        {
+         "ing":"course (kours)",
+         "tr":"kurs"
+        },
+        {
+         "ing":"pencil (pensýl)",
+         "tr":"kurþun kalem"
+        },
+        {
+         "ing":"senior high school (sinyýr hay skuul)",
+         "tr":"lise"
+        },
+        {
+         "ing":"scissors (sizýrs)",
+         "tr":"makas"
+        },
+        {
+         "ing":"graduate (gýracuýt)",
+         "tr":"mezun"
+        },
+        {
+         "ing":"headmistress (hedmistrýs)",
+         "tr":"müdire"
+        },
+        {
+         "ing":"headmaster (hedmeastý)",
+         "tr":"müdür"
+        },
+        {
+         "ing":"school (skuul)",
+         "tr":"okul"
+        },
+        {
+         "ing":"homework (houmvörk)",
+         "tr":"ödev"
+        },
+        {
+         "ing":"student (styudýnt)",
+         "tr":"öðrenci"
+        },
+        {
+         "ing":"teacher (tiicýr)",
+         "tr":"öðretmen"
+        },
+        {
+         "ing":"private school (prayvýt skuul)",
+         "tr":"özel okul"
+        },
+        {
+         "ing":"professor (profesýr)",
+         "tr":"profesör"
+        },
+        {
+         "ing":"seminar (seminaar)",
+         "tr":"seminer"
+        },
+        {
+         "ing":"examination (igzemineyþýn)",
+         "tr":"sýnav"
+        },
+        {
+         "ing":"class (klas)",
+         "tr":"sýnýf"
+        },
+        {
+         "ing":"desk (desk)",
+         "tr":"sýra"
+        },
+        {
+         "ing":"rubber (rabýr)",
+         "tr":"silgi"
+        },
+        {
+         "ing":"health (helt)",
+         "tr":"saðlýk"
+        },
+        {
+         "ing":"ache (eyk)",
+         "tr":"aðrý"
+        },
+        {
+         "ing":"pain (peyn)",
+         "tr":"aðrý"
+        },
+        {
+         "ing":"operation (opýreyþýn)",
+         "tr":"ameliyat"
+        },
+        {
+         "ing":"ambulance (embyulýns)",
+         "tr":"cankurtaran"
+        },
+        {
+         "ing":"pregnant (pregnýnt)",
+         "tr":"hamile"
+        },
+        {
+         "ing":"pill (piýl)",
+         "tr":"hap"
+        },
+        {
+         "ing":"patient (peyþýnt)",
+         "tr":"hasta"
+        },
+        {
+         "ing":"hospital (hospitýl)",
+         "tr":"hastane"
+        },
+        {
+         "ing":"injection (incekþýn)",
+         "tr":"iðne"
+        },
+        {
+         "ing":"medicine (medýsýn)",
+         "tr":"ilac"
+        },
+        {
+         "ing":"blood (blad)",
+         "tr":"kan"
+        },
+        {
+         "ing":"cream (kriim)",
+         "tr":"krem"
+        },
+        {
+         "ing":"examination (igzemineyþýn)",
+         "tr":"muayene"
+        },
+        {
+         "ing":"pulse (pals)",
+         "tr":"nabýz"
+        },
+        {
+         "ing":"cough (kof)",
+         "tr":"öksürük"
+        },
+        {
+         "ing":"cotton (katýn)",
+         "tr":"pamuk"
+        },
+        {
+         "ing":"prescription (priskripþýn)",
+         "tr":"recete"
+        },
+        {
+         "ing":"x-ray (eksrey)",
+         "tr":"röntgen"
+        },
+        {
+         "ing":"bandage (bendýc)",
+         "tr":"sargý bezi"
+        },
+        {
+         "ing":"blood pressure (blad preþýr)",
+         "tr":"tansiyon"
+        },
+        {
+         "ing":"treatment (triitmýnt)",
+         "tr":"tedavi"
+        },
+        {
+         "ing":"diagnosis (dayignousis)",
+         "tr":"teþhis"
+        },
+        {
+         "ing":"parts of body (parts of badi)",
+         "tr":"vücut bölümleri"
+        },
+        {
+         "ing":"mouth (maut)",
+         "tr":"aðýz"
+        },
+        {
+         "ing":"foot (fuut)",
+         "tr":"ayak"
+        },
+        {
+         "ing":"leg (leg)",
+         "tr":"bacak"
+        },
+        {
+         "ing":"head (hed)",
+         "tr":"baþ"
+        },
+        {
+         "ing":"brain (breyn)",
+         "tr":"beyin"
+        },
+        {
+         "ing":"wrist (rist)",
+         "tr":"el bileði"
+        },
+        {
+         "ing":"neck (nek)",
+         "tr":"boyun"
+        },
+        {
+         "ing":"nose (nöuz)",
+         "tr":"burun"
+        },
+        {
+         "ing":"chin (cin)",
+         "tr":"cene"
+        },
+        {
+         "ing":"skin (skin)",
+         "tr":"deri"
+        },
+        {
+         "ing":"tongue (tang)",
+         "tr":"dil"
+        },
+        {
+         "ing":"elbow (elbou)",
+         "tr":"dirsek"
+        },
+        {
+         "ing":"knee (nii)",
+         "tr":"diz"
+        },
+        {
+         "ing":"lip (lip)",
+         "tr":"dudak"
+        },
+        {
+         "ing":"hand (hend)",
+         "tr":"el"
+        },
+        {
+         "ing":"chest (cest)",
+         "tr":"göðüs"
+        },
+        {
+         "ing":"eye (aay)",
+         "tr":"göz"
+        },
+        {
+         "ing":"hip (hip)",
+         "tr":"kalca"
+        },
+        {
+         "ing":"heart (hart)",
+         "tr":"kalp"
+        },
+        {
+         "ing":"belly (beli)",
+         "tr":"karýn"
+        },
+        {
+         "ing":"eyebrow (aybrau)",
+         "tr":"kaþ"
+        },
+        {
+         "ing":"arm (aarm)",
+         "tr":"kol"
+        },
+        {
+         "ing":"ear (iýr)",
+         "tr":"kulak"
+        },
+        {
+         "ing":"stomach (stamýk)",
+         "tr":"mide"
+        },
+        {
+         "ing":"shoulder (þouldýr)",
+         "tr":"omuz"
+        },
+        {
+         "ing":"finger (fingýr)",
+         "tr":"parmak"
+        },
+        {
+         "ing":"hair (heýr)",
+         "tr":"sac"
+        },
+        {
+         "ing":"beard (biyýrd)",
+         "tr":"sakal"
+        },
+        {
+         "ing":"back (bek)",
+         "tr":"sýrt"
+        },
+        {
+         "ing":"fingernail (fingýrneyýl)",
+         "tr":"týrnak"
+        },
+        {
+         "ing":"face (feys)",
+         "tr":"yüz"
+        },
+        {
+         "ing":"sport (sport)",
+         "tr":"spor"
+        },
+        {
+         "ing":"amateur (emýtýr)",
+         "tr":"amatör"
+        },
+        {
+         "ing":"trainer (treynýr)",
+         "tr":"antrenör"
+        },
+        {
+         "ing":"athlete (eatliýt)",
+         "tr":"atlet(sporcu)"
+        },
+        {
+         "ing":"athletics (eatletiks)",
+         "tr":"atletizm"
+        },
+        {
+         "ing":"basketball (beskýtbool)",
+         "tr":"basketbol"
+        },
+        {
+         "ing":"billiards (biliyýrdz)",
+         "tr":"bilardo"
+        },
+        {
+         "ing":"horse riding (hors rayding)",
+         "tr":"binicilik(at)"
+        },
+        {
+         "ing":"boxing (baksing)",
+         "tr":"boks"
+        },
+        {
+         "ing":"mountaineering (mauntiniýring)",
+         "tr":"daðcýlýk"
+        },
+        {
+         "ing":"defence (difens)",
+         "tr":"defans(savunma)"
+        },
+        {
+         "ing":"foul (faul)",
+         "tr":"faul"
+        },
+        {
+         "ing":"final (faynýl)",
+         "tr":"final"
+        },
+        {
+         "ing":"football (futbool)",
+         "tr":"futbol"
+        },
+        {
+         "ing":"win (vin)",
+         "tr":"galibiyet"
+        },
+        {
+         "ing":"score a goal (skoor e goul)",
+         "tr":"gol atmak"
+        },
+        {
+         "ing":"wrestling (resling)",
+         "tr":"güreþ"
+        },
+        {
+         "ing":"referee (refýrii)",
+         "tr":"hakem"
+        },
+        {
+         "ing":"weight lifting (veyt lifting)",
+         "tr":"halter"
+        },
+        {
+         "ing":"handball (hendbo:l)",
+         "tr":"hentbol"
+        },
+        {
+         "ing":"gymnastics (cimnestiks)",
+         "tr":"jimnastik"
+        },
+        {
+         "ing":"goalpost (golpoust)",
+         "tr":"kale"
+        },
+        {
+         "ing":"goal keeper (gol kiipýr)",
+         "tr":"kaleci"
+        },
+        {
+         "ing":"lose (luuz)",
+         "tr":"kaybetmek"
+        },
+        {
+         "ing":"win (vin)",
+         "tr":"kazanmak"
+        },
+        {
+         "ing":"running (raning)",
+         "tr":"koþu"
+        },
+        {
+         "ing":"cup (kap)",
+         "tr":"kupa"
+        },
+        {
+         "ing":"match (mec)",
+         "tr":"mac,karþýlaþma"
+        },
+        {
+         "ing":"medal (medýl)",
+         "tr":"madalya"
+        },
+        {
+         "ing":"table tennis (teybýl tenis)",
+         "tr":"masa tenisi"
+        },
+        {
+         "ing":"game (geym)",
+         "tr":"oyun"
+        },
+        {
+         "ing":"skating (skeyting)",
+         "tr":"paten"
+        },
+        {
+         "ing":"penalty (penýlti)",
+         "tr":"penaltý"
+        },
+        {
+         "ing":"professional (profeþýnýl)",
+         "tr":"profesyonel"
+        },
+        {
+         "ing":"opponent (ýpounýnt)",
+         "tr":"rakip"
+        },
+        {
+         "ing":"record (rekýrd)",
+         "tr":"rekor"
+        },
+        {
+         "ing":"spectator (spekteytýr)",
+         "tr":"seyirci"
+        },
+        {
+         "ing":"score (skoor)",
+         "tr":"skor,puan"
+        },
+        {
+         "ing":"stadium (steydyým)",
+         "tr":"stadyum"
+        },
+        {
+   "ing":"team (ti:m)",
+   "tr":"takým"
+},
+{
+   "ing":"supporter (saportýr)",
+   "tr":"taraftar"
+},
+{
+   "ing":"tennis (tenis)",
+   "tr":"tenis"
+},
+{
+   "ing":"ball (bol)",
+   "tr":"top"
+},
+{
+   "ing":"stands (stendz)",
+   "tr":"tribün(ler)"
+},
+{
+   "ing":"tournament (turnýmýnt)",
+   "tr":"turnuva"
+},
+{
+   "ing":"volleyball (voliybo:l)",
+   "tr":"voleybol"
+},
+{
+   "ing":"race (reys)",
+   "tr":"yarýþ"
+},
+{
+   "ing":"defeat (difiit)",
+   "tr":"yenilgi"
+},
+{
+   "ing":"swimming (sviming)",
+   "tr":"yüzme"
+},
+{
+   "ing":" ()",
+   "tr":"ulaþým(transportation)"
+},
+{
+   "ing":"transportation (transporteyþýn)",
+   "tr":"ulaþým"
+},
+{
+   "ing":"change (ceync)",
+   "tr":"aktarma"
+},
+{
+   "ing":"car,motorcar (kaar,motýrkar)",
+   "tr":"araba"
+},
+{
+   "ing":"at the back (et dý bek)",
+   "tr":"arkada"
+},
+{
+   "ing":"excess luggage (ekses lagýc)",
+   "tr":"bagaj fazlasý"
+},
+{
+   "ing":"baggage (begýc)",
+   "tr":"bavul,valiz"
+},
+{
+   "ing":"waiting room (veyting ruum)",
+   "tr":"bekleme salonu"
+},
+{
+   "ing":"petrol station (petrýl steyþýn)",
+   "tr":"benzin istasyonu"
+},
+{
+   "ing":"ticket (tikýt)",
+   "tr":"bilet"
+},
+{
+   "ing":"bicycle (baysikýl)",
+   "tr":"bisiklet"
+},
+{
+   "ing":"life  jacket (layfcekýt)",
+   "tr":"can yeleði"
+},
+{
+   "ing":"railway (reylvey)",
+   "tr":"demiryolu"
+},
+{
+   "ing":"ship (þip)",
+   "tr":"gemi"
+},
+{
+   "ing":"map (mep)",
+   "tr":"harita"
+},
+{
+   "ing":"station (steyþýn)",
+   "tr":"istasyon"
+},
+{
+   "ing":"crowded (kraudýd)",
+   "tr":"kalabalýk"
+},
+{
+   "ing":"departure time (diparcýr taym)",
+   "tr":"kalkýþ saati"
+},
+{
+   "ing":"cabin (kebin)",
+   "tr":"kamara"
+},
+{
+   "ing":" truck (track)",
+   "tr":"kamyon"
+},
+{
+   "ing":"captain (keptýn)",
+   "tr":"kaptan"
+},
+{
+   "ing":"boat (bout)",
+   "tr":"kayýk"
+},
+{
+   "ing":"accident (eksidýnt)",
+   "tr":"kaza"
+},
+{
+   "ing":"bridge (bric)",
+   "tr":"köprü"
+},
+{
+   "ing":"at the corner (et dý kornýr)",
+   "tr":"köþede"
+},
+{
+   "ing":" port (port)",
+   "tr":"liman"
+},
+{
+   "ing":"square (sýkveer)",
+   "tr":"meydan(alan)"
+},
+{
+   "ing":"bus (bas)",
+   "tr":"otobüs"
+},
+{
+   "ing":"guide (gayd)",
+   "tr":"rehber"
+},
+{
+   "ing":"travel (trevýl)",
+   "tr":"seyahat"
+},
+{
+   "ing":"taxi (teksi)",
+   "tr":"taksi"
+},
+{
+   "ing":"tram (trem)",
+   "tr":"tramvay"
+},
+{
+   "ing":"train (treyn)",
+   "tr":"tren"
+},
+{
+   "ing":"aircraft (eirkraft)",
+   "tr":"ucak"
+},
+{
+   "ing":"arrival time (arayvýl taym)",
+   "tr":"varýþ saati"
+},
+{
+   "ing":"passenger (pesýncýr)",
+   "tr":"yolcu"
+},
+{
+   "ing":"passenger ship (pesýncýrþip)",
+   "tr":"yolcu gemisi"
+},
+{
+   "ing":"signboards-signs(saynboords-sayns)",
+   "tr":"tabelalar iþaretler"
+},
+{
+   "ing":"open (oupýn)",
+   "tr":"açýk"
+},
+{
+   "ing":"gentlemen  (centýlmýn )",
+   "tr":"bay"
+},
+{
+   "ing":"ladies (leydiiz)",
+   "tr":"bayan"
+},
+{
+   "ing":"hairdresser (heirdýresýr)",
+   "tr":"berber"
+},
+{
+   "ing":"out of order (aut ov ordýr)",
+   "tr":"Kullaným dýþý"
+},
+{
+   "ing":"bazaar (býzaar)",
+   "tr":"carþý"
+},
+{
+   "ing":"pull (pul)",
+   "tr":"cekiniz"
+},
+{
+   "ing":"exit (eksit)",
+   "tr":"cýkýþ"
+},
+{
+   "ing":"enough (inaf)",
+   "tr":"yeterli"
+},
+{
+   "ing":"information (infýmeyþýn)",
+   "tr":"danýþma"
+},
+{
+   "ing":"attention (etenþýn)",
+   "tr":"dikkat"
+},
+{
+   "ing":"stop (stop)",
+   "tr":"dur"
+},
+{
+   "ing":"station/stop (steyþýn/stop)",
+   "tr":"durak"
+},
+{
+   "ing":"pharmacy (farmasi)",
+   "tr":"eczane"
+},
+{
+   "ing":"station (steyþýn)",
+   "tr":"gar"
+},
+{
+   "ing":"passage (pesýc)",
+   "tr":"gecit"
+},
+{
+   "ing":"keep out! (kiip aut)",
+   "tr":"girilmez"
+},
+{
+   "ing":"Entrance fee charged (Intrýns fi:caarcd)",
+   "tr":"Giriþ ücretli"
+},
+{
+   "ing":"entrance forbidden (entrýns forbidýn)",
+   "tr":"giriþ yasak"
+},
+{
+   "ing":"counter (keauntýr)",
+   "tr":"giþe"
+},
+{
+   "ing":"non-portable (nan-portýbýl)",
+   "tr":"taþýnmaz"
+},
+{
+   "ing":"discount (diskaunt)",
+   "tr":"indirim"
+},
+{
+   "ing":"push (puþ)",
+   "tr":"itiniz"
+},
+{
+   "ing":"closed (klouzd)",
+   "tr":"kapalý"
+},
+{
+   "ing":"for rent (for rent)",
+   "tr":"kiralýk"
+},
+{
+   "ing":"occupied (oküpayd)",
+   "tr":"meþgul,dolu"
+},
+{
+   "ing":"underground (andýrgraund)",
+   "tr":"metro"
+},
+{
+   "ing":"accountants office (ekauntýnts ofis)",
+   "tr":"muhasebe"
+},
+{
+   "ing":"director (dýrektýr)",
+   "tr":"müdür"
+},
+{
+   "ing":"museum (müziyým)",
+   "tr":"müze"
+},
+{
+   "ing":"coach station (kouc steyþýn)",
+   "tr":"otogar"
+},
+{
+   "ing":"car park (kar park)",
+   "tr":"otopark"
+},
+{
+   "ing":"post office (poust ofis)",
+   "tr":"postane"
+},
+{
+   "ing":"reserved (rizörvd)",
+   "tr":"reserve"
+},
+{
+   "ing":"for sale (for seyl)",
+   "tr":"satýlýk"
+},
+{
+   "ing":"free (frii)",
+   "tr":"serbest ,boþ"
+},
+{
+   "ing":"nosmoking! (no  smouking)",
+   "tr":"sigara icilmez"
+},
+{
+   "ing":"city centre (siti sentýr)",
+   "tr":"þehir merkezi"
+},
+{
+   "ing":"dangerous (dencýrýs)",
+   "tr":"tehlikeli"
+},
+{
+   "ing":"accommodation (ýkamýdeyþýn)",
+   "tr":"konaklama"
+},
+{
+   "ing":"key (kiy)",
+   "tr":"anahtar"
+},
+{
+   "ing":"mirror (mirýr)",
+   "tr":"ayna"
+},
+{
+   "ing":"garden (gaadýn)",
+   "tr":"bahce"
+},
+{
+   "ing":"balcony (belkýni)",
+   "tr":"balkon"
+},
+{
+   "ing":"bathroom (batfrum)",
+   "tr":"banyo"
+},
+{
+   "ing":"blanket (blenkýt)",
+   "tr":"battaniye"
+},
+{
+   "ing":"dishwasher (diþ voþýr)",
+   "tr":"bulaþýk makinesi"
+},
+{
+   "ing":"refrigerator(rifricýreytýr)",
+   "tr":"buzdolabý"
+},
+{
+   "ing":"washing machine (voþing meþiin)",
+   "tr":"camaþýr makinesi"
+},
+{
+   "ing":"bed sheet (bedþiit)",
+   "tr":"çarþaf"
+},
+{
+   "ing":"wall (vool)",
+   "tr":"duvar"
+},
+{
+   "ing":"vacuum cleaner (vekyuum kliinýr)",
+   "tr":"elektrik süpürgesi"
+},
+{
+   "ing":"house (haus)",
+   "tr":"ev"
+},
+{
+   "ing":"price (prays)",
+   "tr":"fiyat"
+},
+{
+   "ing":"ventilation (ventileyþin)",
+   "tr":"havalandýrma"
+},
+{
+   "ing":"towel (tavýl)",
+   "tr":"havlu"
+},
+{
+   "ing":"door (door)",
+   "tr":"kapý"
+},
+{
+   "ing":"air-conditioning (eirkýndiiþýning)",
+   "tr":"klima"
+},
+{
+   "ing":"lamp (lemp)",
+   "tr":"lamba"
+},
+{
+   "ing":"sink, wash-basin (sink, voþbeysýn)",
+   "tr":"lavabo"
+},
+{
+   "ing":"table (teybýl)",
+   "tr":"masa"
+},
+{
+   "ing":"stairs (steýrs)",
+   "tr":"merdiven(ler)"
+},
+{
+   "ing":"kitchen (kicýn)",
+   "tr":"mutfak"
+},
+{
+   "ing":"room (ruum)",
+   "tr":"oda"
+},
+{
+   "ing":"room  service (rum sö:vis)",
+   "tr":"oda servisi"
+},
+{
+   "ing":"hotel (houtel)",
+   "tr":"otel"
+},
+{
+   "ing":"window (vindou)",
+   "tr":"pencere"
+},
+{
+   "ing":"curtain (körtýn)",
+   "tr":"perde"
+},
+{
+   "ing":"beach (biic)",
+   "tr":"plaj"
+},
+{
+   "ing":"soap (soup)",
+   "tr":"sabun"
+},
+{
+   "ing":"service (sörvis)",
+   "tr":"servis"
+},
+{
+   "ing":"shampoo (þempuu)",
+   "tr":"þampuan"
+},
+{
+   "ing":"full board (fulboord)",
+   "tr":"tam pansiyon"
+},
+{
+   "ing":"television (televijýn)",
+   "tr":"televizyon"
+},
+{
+   "ing":"razor blade (reyzýr bleyd)",
+   "tr":"traþ býcaðý"
+},
+{
+   "ing":"toilet (toylýt)",
+   "tr":"tuvalet"
+},
+{
+   "ing":"toilet-paper (toylýtpeypýr)",
+   "tr":"tuvalet kaðýdý"
+},
+{
+   "ing":"iron (ayrýn)",
+   "tr":"ütü"
+},
+{
+   "ing":"pillow (pilou)",
+   "tr":"yastýk"
+},
+{
+   "ing":"bed (bed)",
+   "tr":"yatak"
+},
+{
+   "ing":"bedroom (bedrum)",
+   "tr":"yatak odasý"
+},
+{
+   "ing":"bedspread (bedspred)",
+   "tr":"yatak örtüsü"
+},
+{
+   "ing":"bell (bel)",
+   "tr":"zil"
+},
+{
+   "ing":"personal information (pörsýnýl infýmeyþýn)",
+   "tr":"kiþisel bilgiler"
+},
+{
+   "ing":"address (ýdres)",
+   "tr":"adres"
+},
+{
+   "ing":"single (singýl)",
+   "tr":"bekar"
+},
+{
+   "ing":"height-weight (hayt-weyt)",
+   "tr":"boy-kilo(aðýrlýk)"
+},
+{
+   "ing":"sex (seks)",
+   "tr":"cinsiyet"
+},
+{
+   "ing":"male(m) (meyl)",
+   "tr":"erkek(e)"
+},
+{
+   "ing":"married (meriid)",
+   "tr":"evli"
+},
+{
+   "ing":"signature (signicýr)",
+   "tr":"imza"
+},
+{
+   "ing":"female(f) (fiimeyl)",
+   "tr":"kadýn(k)"
+},
+{
+   "ing":"marital status (meritýl steytýs)",
+   "tr":"medeni durum"
+},
+{
+   "ing":"profession (profeþýn)",
+   "tr":"meslek"
+},
+{
+   "ing":"country (kantri)",
+   "tr":"ülke "
+},
+{
+   "ing":"age (eyc)",
+   "tr":"yaþ"
+},
+{
+   "ing":"kitchen utensils (kicýn yutensils)",
+   "tr":"mutfak malzemeleri"
+},
+{
+   "ing":"glass (glas)",
+   "tr":"bardak"
+},
+{
+   "ing":"knife (nayf)",
+   "tr":"býcak"
+},
+{
+   "ing":"fork (fork)",
+   "tr":"catal"
+},
+{
+   "ing":"oven (ovýn)",
+   "tr":"fýrýn"
+},
+{
+   "ing":"spoon (spuun)",
+   "tr":"kaþýk"
+},
+{
+   "ing":"plate (pleyt)",
+   "tr":"tabak"
+},
+
+{
+   "ing":"hungry (hangri)",
+   "tr":"ac"
+},
+{
+   "ing":"dinner (dinýr)",
+   "tr":"akþam yemeði"
+},
+{
+   "ing":"bread (bred)",
+   "tr":"ekmek"
+},
+{
+   "ing":"meat (miit)",
+   "tr":"et"
+},
+{
+   "ing":"cup (kap)",
+   "tr":"fincan"
+},
+{
+   "ing":"bill (biýl)",
+   "tr":"hesap"
+},
+{
+   "ing":"scenery (siinýri)",
+   "tr":"manzara"
+},
+{
+   "ing":"table (teybýl)",
+   "tr":"masa"
+},
+{
+   "ing":"lunch (lanc)",
+   "tr":"öðle yemeði"
+},
+{
+   "ing":"napkin (neapkin)",
+   "tr":"pecete"
+},
+{
+   "ing":"sugar (þugýr)",
+   "tr":"þeker"
+},
+{
+   "ing":"tea (tii)",
+   "tr":"cay"
+},
+{
+   "ing":"full (ful)",
+   "tr":"tok"
+},
+{
+   "ing":"breakfast (brekfýst)",
+   "tr":"kahvaltý"
+},
+{
+   "ing":"honey (hani)",
+   "tr":"bal"
+},
+{
+   "ing":"omelette (omlýt)",
+   "tr":"omlet"
+},
+{
+   "ing":"cheese (chiiz)",
+   "tr":"peynir"
+},
+{
+   "ing":"salami (sýlaami)",
+   "tr":"salam"
+},
+{
+   "ing":"hot dog,sausage (hot dog,sosýc)",
+   "tr":"sossis "
+},
+{
+   "ing":"turkish salami (törkiþ sýlaami)",
+   "tr":"sucuk"
+},
+{
+   "ing":"butter (batýr)",
+   "tr":"tereyaðý"
+},
+{
+   "ing":"olives (olivs)",
+   "tr":"zeytin"
+},
+{
+   "ing":"soups (suups)",
+   "tr":"corbalar"
+},
+{
+   "ing":"mushroom soup (maþruum su:p)",
+   "tr":"mantar corbasý"
+},
+{
+   "ing":"lentil soup (lentýl su:p)",
+   "tr":"mercimek corbasý"
+},
+{
+   "ing":"vegetable soup (vectýbýl su:p)",
+   "tr":"sebze corbasý"
+},
+{
+   "ing":"chicken soup (cikýn su:p)",
+   "tr":"tavuk corbasý"
+},
+{
+   "ing":"salads (sealýds)",
+   "tr":"salatalar"
+},
+{
+   "ing":"shepherds salad (þefýrdz sealýd)",
+   "tr":"coban salata"
+},
+{
+   "ing":"salad of the season (sealýd ov dýsiizýn)",
+   "tr":"mevsim salatasý"
+},
+{
+   "ing":"potato salad (pýteytousealýd)",
+   "tr":"patates salatasý"
+},
+{
+   "ing":"russian salad (raþýnsealýd)",
+   "tr":"rus salatasý"
+},
+{
+   "ing":"green salad (gri:n salýd)",
+   "tr":"yeþil salata"
+},
+{
+   "ing":"liver (livýr)",
+   "tr":"ciðer"
+},
+{
+   "ing":"mashed potatoes (meaþd pýteytouz)",
+   "tr":"patates püre"
+},
+{
+   "ing":"pickles (pikýls)",
+   "tr":"turþu"
+},
+{
+   "ing":"yoghurt (yogurt)",
+   "tr":"yoðurt"
+},
+{
+   "ing":"main courses (mein koursýz)",
+   "tr":"ana yemekler"
+},
+{
+   "ing":"steak (steyk)",
+   "tr":"biftek"
+},
+{
+   "ing":"fillet of beef (filýt ov bi:f)",
+   "tr":"bonfile"
+},
+{
+   "ing":"kebab (Kiba:p)",
+   "tr":"kebap"
+},
+{
+   "ing":"macaroni (meakýrouni)",
+   "tr":"makarna"
+},
+{
+   "ing":"rice  (rays)",
+   "tr":"pilav"
+},
+{
+   "ing":"roast chicken (roust cikýn)",
+   "tr":"pilic kýzartma"
+},
+{
+   "ing":"fish (fiþ)",
+   "tr":"balýk"
+},
+{
+   "ing":"mussel (masýl)",
+   "tr":"midye"
+},
+{
+   "ing":"dessert (dizört)",
+   "tr":"tatlý"
+},
+{
+   "ing":"ice cream (ayskriim)",
+   "tr":"dondurma"
+},
+{
+   "ing":"fruit salad (fruut sealýd)",
+   "tr":"meyve salatasý"
+},
+{
+   "ing":"cake (keyk)",
+   "tr":"pasta"
+},
+{
+   "ing":"pear (peer)",
+   "tr":"armut"
+},
+{
+   "ing":"strawberry (strovbýri)",
+   "tr":"cilek"
+},
+{
+   "ing":"apple (epýl)",
+   "tr":"elma"
+},
+{
+   "ing":"grapefruit (greypfruut)",
+   "tr":"greyfurt"
+},
+{
+   "ing":"melon (melýn)",
+   "tr":"kavun"
+},
+{
+   "ing":"water melon (votýrmelýn)",
+   "tr":"karpuz"
+},
+{
+   "ing":"cherry (ceri)",
+   "tr":"kiraz"
+},
+{
+   "ing":"banana (býnaana)",
+   "tr":"muz"
+},
+{
+   "ing":"pomegranate (pomigreanit)",
+   "tr":"nar"
+},
+{
+   "ing":"orange (orýnc)",
+   "tr":"portakal"
+},
+{
+   "ing":"peach (piyc)",
+   "tr":"þeftali"
+},
+{
+   "ing":"vegetables (vectýbýls)",
+   "tr":"sebzeler"
+},
+{
+   "ing":"peas (piiys)",
+   "tr":"bezelye"
+},
+{
+   "ing":"pepper (pepýr)",
+   "tr":"biber"
+},
+{
+   "ing":"tomato (týmaato)",
+   "tr":"domates"
+},
+{
+   "ing":"beans (biyns)",
+   "tr":"fasulye"
+},
+{
+   "ing":"carrot (kearýt)",
+   "tr":"havuc"
+},
+{
+   "ing":"spinach (spinýc)",
+   "tr":"ýspanak"
+},
+{
+   "ing":"lentil (lentil)",
+   "tr":"mercimek"
+},
+{
+   "ing":"corn (korn)",
+   "tr":"mýsýr"
+},
+{
+   "ing":"chickpeas (cikpiys)",
+   "tr":"nohut"
+},
+{
+   "ing":"potato (pýteytou)",
+   "tr":"patates"
+},
+{
+   "ing":"aubergine (obýrjin)",
+   "tr":"patlýcan"
+},
+{
+   "ing":"cucumber (kyukambýr)",
+   "tr":"salatalýk"
+},
+{
+   "ing":"garlic (garlik)",
+   "tr":"sarýmsak"
+},
+{
+   "ing":"onion (aniyýn)",
+   "tr":"soðan"
+},
+{
+   "ing":"spices (spaysýs)",
+   "tr":"baharatlar"
+},
+{
+   "ing":"mint (mint)",
+   "tr":"nane"
+},
+{
+   "ing":"salt (solt)",
+   "tr":"tuz"
+},
+{
+   "ing":"drinks (drinks)",
+   "tr":"icecekler"
+},
+{
+   "ing":"mineral water (minýrýl votýr)",
+   "tr":"soda,madensuyu"
+},
+{
+   "ing":"alcoholic drink (elkholik drink)",
+   "tr":"alkollü icki"
+},
+{
+   "ing":"beer (biir)",
+   "tr":"bira"
+},
+{
+   "ing":"tea (tii)",
+   "tr":"cay"
+},
+{
+   "ing":"instant coffee (instýnt  kofi)",
+   "tr":"hazýr kahve"
+},
+{
+   "ing":"coke (kouk)",
+   "tr":"kola"
+},
+{
+   "ing":"cognac (konyeak)",
+   "tr":"konyak"
+},
+{
+   "ing":"liqueur (Likyö:r)",
+   "tr":"likör"
+},
+{
+   "ing":"lemonade (lemýneyd)",
+   "tr":"limonata"
+},
+{
+   "ing":"fruit juice (fruut cyüs)",
+   "tr":"meyve suyu"
+},
+{
+   "ing":"orange juice (orýnc cyüs)",
+   "tr":"portakal suyu"
+},
+{
+   "ing":"water (votýr)",
+   "tr":"su"
+},
+{
+   "ing":"milk (miýlk)",
+   "tr":"süt"
+},
+{
+   "ing":"turkish coffee (törkiþkofi)",
+   "tr":"türk kahvesi"
+},
+{
+   "ing":"mobile phone (mobayl foun)",
+   "tr":"cep telefonu"
+},
+{
+   "ing":"lighter (laytýr)",
+   "tr":"cakmak"
+},
+{
+   "ing":"glasses (gla:sýs)",
+   "tr":"gözlük"
+},
+{
+   "ing":"sunglasses (sangla:sýs)",
+   "tr":"güneþ gözlüðü"
+},
+{
+   "ing":"business card (biznýs kard)",
+   "tr":"kartvizit"
+},
+{
+   "ing":"belt (belt)",
+   "tr":"kemer"
+},
+{
+   "ing":"wrist watch (rist voc)",
+   "tr":"kol saati"
+},
+{
+   "ing":"credit card (kredit kard)",
+   "tr":"kredi kartý"
+},
+{
+   "ing":"earrings (iýringz)",
+   "tr":"küpe"
+},
+{
+   "ing":"cigarette (sigýret)",
+   "tr":"sigara"
+},
+{
+   "ing":"hat (het)",
+   "tr":"þapka"
+},
+{
+   "ing":"umbrella (ambrela)",
+   "tr":"þemsiye"
+},
+{
+   "ing":"ring (ring)",
+   "tr":"yüzük"
+},
+{
+   "ing":"toothbrush (tuuthbraþ)",
+   "tr":"diþ fýrcasý"
+},
+{
+   "ing":"toothpaste (tuuthpeyst)",
+   "tr":"diþ macunu"
+},
+{
+   "ing":"cologne (kýloun)",
+   "tr":"kolanya"
+},
+{
+   "ing":"cotton wool (katýn vuul)",
+   "tr":"pamuk"
+},
+{
+   "ing":"perfume (pörfyuum)",
+   "tr":"parfüm"
+},
+{
+   "ing":"lipstick (lipstik)",
+   "tr":"ruj"
+},
+{
+   "ing":"soap (soup)",
+   "tr":"sabun"
+},
+{
+   "ing":"razor (reyzýr)",
+   "tr":"týraþ býcaðý"
+},
+{
+   "ing":"clothing (klouting)",
+   "tr":"giyecekler"
+},
+{
+   "ing":"shoes (þuuz)",
+   "tr":"ayakkabý"
+},
+{
+   "ing":"jeans (ciinz)",
+   "tr":"kot"
+},
+{
+   "ing":"blouse (blauz)",
+   "tr":"bluz"
+},
+{
+   "ing":"bathrobe (bathroub)",
+   "tr":"bornoz"
+},
+{
+   "ing":"jacket (cekýt)",
+   "tr":"ceket"
+},
+{
+   "ing":"socks (soks)",
+   "tr":"corap"
+},
+{
+   "ing":"dress (dres)",
+   "tr":"elbise"
+},
+{
+   "ing":"skirt (skört)",
+   "tr":"etek"
+},
+{
+   "ing":"shirt (þört)",
+   "tr":"gömlek"
+},
+{
+   "ing":"underwear (andýrveer)",
+   "tr":"ic camaþýrý"
+},
+{
+   "ing":"tie (taay)",
+   "tr":"kravat"
+},
+{
+   "ing":"trousers (trauzýrs)",
+   "tr":"pantolon"
+},
+{
+   "ing":"pants (pents)",
+   "tr":"pantolon"
+},
+{
+   "ing":"pyjamas (pýcaamýz)",
+   "tr":"pijama"
+},
+{
+   "ing":"shorts (þorts)",
+   "tr":"þort"
+},
+{
+   "ing":"suit (süüt)",
+   "tr":"takým elbise"
+},
+{
+   "ing":"slippers (slipýrs)",
+   "tr":"terlik"
+},
+{
+   "ing":"t-shirt (tiiþört)",
+   "tr":"tiþört"
+},
+{
+   "ing":"weather  (vedý:)",
+   "tr":"hava durumu"
+},
+{
+   "ing":"moon (muun)",
+   "tr":"ay"
+},
+{
+   "ing":"cloudy (klaudi)",
+   "tr":"bulutlu"
+},
+{
+   "ing":"frosty (frosti)",
+   "tr":"buzlu"
+},
+{
+   "ing":"temperature (tempricýr)",
+   "tr":"derece"
+},
+{
+   "ing":"hail (heyl)",
+   "tr":"dolu"
+},
+{
+   "ing":"frost (frost)",
+   "tr":"don"
+},
+{
+   "ing":"storm (storm)",
+   "tr":"fýrtýna"
+},
+{
+   "ing":"sky (skay)",
+   "tr":"gökyüzü"
+},
+{
+   "ing":"sunny (sani)",
+   "tr":"güneþli"
+},
+{
+   "ing":"warm (vorm)",
+   "tr":"ýlýk"
+},
+{
+   "ing":"climate (klaymýt)",
+   "tr":"iklim"
+},
+{
+   "ing":"snow (snou)",
+   "tr":"kar"
+},
+{
+   "ing":"snowy (snouvi)",
+   "tr":"karlý"
+},
+{
+   "ing":"wind (vind)",
+   "tr":"rüzgar"
+},
+{
+   "ing":"windy (vindi)",
+   "tr":"rüzgarlý"
+},
+{
+   "ing":"cool (kuul)",
+   "tr":"serin"
+},
+{
+   "ing":"hot (hat)",
+   "tr":"sýcak"
+},
+{
+   "ing":"fog (fog)",
+   "tr":"sis"
+},
+{
+   "ing":"cold (kold)",
+   "tr":"soðuk"
+},
+{
+   "ing":"lightning (laytning)",
+   "tr":"þimþek"
+},
+{
+   "ing":"economy-law-politics (ikonými-lou-polýtiks)",
+   "tr":"iktisat-hukuk-politika"
+},
+{
+   "ing":"supply (sýplay)",
+   "tr":"arz"
+},
+{
+   "ing":"minister (ministýr)",
+   "tr":"bakan"
+},
+{
+   "ing":"ministry (ministri)",
+   "tr":"bakanlýk"
+},
+{
+   "ing":"prime minister (praym ministýr)",
+   "tr":"baþbakan"
+},
+{
+   "ing":"capital (keapitýl)",
+   "tr":"baþkent"
+},
+{
+   "ing":"mayor (meyýr)",
+   "tr":"belediye baþkaný"
+},
+{
+   "ing":"stock exchange (stok iksceync)",
+   "tr":"borsa"
+},
+{
+   "ing":"president (prezidýnt)",
+   "tr":"cumhurbaþkaný"
+},
+{
+   "ing":"democracy (dimokrýsi)",
+   "tr":"demokrasi"
+},
+{
+   "ing":"income (inkam)",
+   "tr":"gelir"
+},
+{
+   "ing":"prison (prizýn)",
+   "tr":"hapishane"
+},
+{
+   "ing":"government (gavýrmýnt)",
+   "tr":"hükümet"
+},
+{
+   "ing":"export (iksport)",
+   "tr":"ihracat"
+},
+{
+   "ing":"enterprise (entýrprays)",
+   "tr":"iþletme"
+},
+{
+   "ing":"import (import)",
+   "tr":"ithalat"
+},
+{
+   "ing":"illegal (iliigýl)",
+   "tr":"kanunsuz"
+},
+{
+   "ing":"gain (geyn)",
+   "tr":"kar"
+},
+{
+   "ing":"law court (lou kort)",
+   "tr":"mahkeme"
+},
+{
+   "ing":"goods (guudz)",
+   "tr":"mal"
+},
+{
+   "ing":"parliament (parlimýnt)",
+   "tr":"meclis"
+},
+{
+   "ing":"money (mani)",
+   "tr":"para"
+},
+{
+   "ing":"political party (pýlitikýl parti)",
+   "tr":"parti(siyasi)"
+},
+{
+   "ing":"market (markýt)",
+   "tr":"pazar"
+},
+{
+   "ing":"propaganda (propýgenda)",
+   "tr":"propaganda"
+},
+{
+   "ing":"election (ýlekþýn)",
+   "tr":"secim"
+},
+{
+   "ing":"elector (ýlektýr)",
+   "tr":"secmen"
+},
+{
+   "ing":"capital (keapitýl)",
+   "tr":"sermaye"
+},
+{
+   "ing":"suspect (sýspekt)",
+   "tr":"þüpheli"
+},
+{
+   "ing":"pistol (pistýl)",
+   "tr":"tabanca"
+},
+{
+   "ing":"gun (gan)",
+   "tr":"tabanca"
+},
+{
+   "ing":"demand (dimend)",
+   "tr":"talep"
+},
+{
+   "ing":"savings (seyvings)",
+   "tr":"tasarruf"
+},
+{
+   "ing":"prisoner (prizýnýr)",
+   "tr":"tutuklu"
+},
+{
+   "ing":"production (prodakþýn)",
+   "tr":"üretim"
+},
+{
+   "ing":"judge (cac)",
+   "tr":"yargýc"
+},
+{
+   "ing":"legal (liigýl)",
+   "tr":"yasal"
+},
+{
+   "ing":"investment (investmýnt)",
+   "tr":"yatýrým"
+},
+{
+   "ing":"damage (demýc)",
+   "tr":"zarar"
+},
+{
+   "ing":"customs (kastýmz)",
+   "tr":"gümrük"
+},
+{
+   "ing":"work permit (vörk pörmit)",
+   "tr":"calýþma izni"
+},
+{
+   "ing":"information office (infýrmeyþýn ofis)",
+   "tr":"danýþma bürosu"
+},
+{
+   "ing":"place of birth (pleys ov bört)",
+   "tr":"doðum yeri"
+},
+{
+   "ing":"left luggage (left lagýc)",
+   "tr":"emanet"
+},
+{
+   "ing":"papers (peypýrs)",
+   "tr":"evraklar"
+},
+{
+   "ing":"customs control (kastýms kýntrol)",
+   "tr":"gümrük kontrolü"
+},
+{
+   "ing":"duty-free (dyutifri)",
+   "tr":"gümrüksüz"
+},
+{
+   "ing":"signature (signicý)",
+   "tr":"imza"
+},
+{
+   "ing":"lost property (lost propýti)",
+   "tr":"kayýp eþya"
+},
+{
+   "ing":"maiden name (meydýn neym)",
+   "tr":"kýzlýk soyadý"
+},
+{
+   "ing":"identity card (aydentiti kard)",
+   "tr":"kimlik"
+},
+{
+   "ing":"consulate (kansýleyt)",
+   "tr":"konsolosluk"
+},
+{
+   "ing":"residence permit (rezidýns pörmit)",
+   "tr":"oturma izni"
+},
+{
+   "ing":"passport (pasport)",
+   "tr":"pasaport"
+},
+{
+   "ing":"border (bordýr)",
+   "tr":"sýnýr"
+},
+{
+   "ing":"nationality (neyþýneality)",
+   "tr":"uyruk"
+},
+{
+   "ing":"extend (ikstend)",
+   "tr":"uzatma"
+},
+{
+   "ing":"luggage (lagýc)",
+   "tr":"valiz"
+},
+{
+   "ing":"visa (viza)",
+   "tr":"vize"
+},
+{
+   "ing":"animals (enimýls)",
+   "tr":"hayvanlar"
+},
+{
+   "ing":"horse (hors)",
+   "tr":"at"
+},
+{
+   "ing":"bear (beer)",
+   "tr":"ayý"
+},
+{
+   "ing":"fish (fiþ)",
+   "tr":"balýk"
+},
+{
+   "ing":"bull (bul)",
+   "tr":"boða"
+},
+{
+   "ing":"pig (pig)",
+   "tr":"domuz"
+},
+{
+   "ing":"elephant (elýfýnt)",
+   "tr":"fil"
+},
+{
+   "ing":"cow (keau)",
+   "tr":"inek"
+},
+{
+   "ing":"turtle (törtýl)",
+   "tr":"kaplumbaða"
+},
+{
+   "ing":"cat (ket)",
+   "tr":"kedi"
+},
+{
+   "ing":"sheep (þiip)",
+   "tr":"koyun"
+},
+{
+   "ing":"dog (dog)",
+   "tr":"köpek"
+},
+{
+   "ing":"shark (þark)",
+   "tr":"köpekbalýðý"
+},
+{
+   "ing":"frog (frog)",
+   "tr":"kurbaða"
+},
+{
+   "ing":"wolf (volf)",
+   "tr":"kurt"
+},
+{
+   "ing":"monkey (manki)",
+   "tr":"maymun"
+},
+{
+   "ing":"duck (dak)",
+   "tr":"ördek"
+},
+{
+   "ing":"chicken (cikýn)",
+   "tr":"tavuk"
+},
+{
+   "ing":"fox (foks)",
+   "tr":"tilki"
+},
+{
+   "ing":"crocodile (kýrokýdayýl)",
+   "tr":"timsah"
+},
+{
+   "ing":"snake (sneyk)",
+   "tr":"yýlan"
+},
+{
+   "ing":"prepositions (prepýziþýns)",
+   "tr":"edatlar"
+},
+{
+   "ing":"under (andýr)",
+   "tr":"altýnda,altýna"
+},
+{
+   "ing":"between (bitviin)",
+   "tr":"arasýnda"
+},
+{
+   "ing":"after (aftýr)",
+   "tr":"ardýndan"
+},
+{
+   "ing":"behind (bihaynd)",
+   "tr":"arkasýnda"
+},
+{
+   "ing":"in,at (in,et)",
+   "tr":"-de,-da"
+},
+{
+   "ing":"since (sins)",
+   "tr":"-den beri"
+},
+{
+   "ing":"for (for)",
+   "tr":"-den dolayý,icin"
+},
+{
+   "ing":"before (bifoor)",
+   "tr":"-den önce"
+},
+{
+   "ing":"From (from)",
+   "tr":"-den,-dan"
+},
+{
+   "ing":"outside (autsayd)",
+   "tr":"dýþýnda"
+},
+{
+   "ing":"Till (tiyl)",
+   "tr":"-e kadar"
+},
+{
+   "ing":"around (eraund)",
+   "tr":"etrafýnda"
+},
+{
+   "ing":"about (ebaut)",
+   "tr":"hakkýnda"
+},
+{
+   "ing":"except (iksept)",
+   "tr":"haric"
+},
+{
+   "ing":"Into (intu)",
+   "tr":"icine"
+},
+{
+   "ing":"with,by (vit,bay)",
+   "tr":"ile"
+},
+{
+   "ing":"against (egentst)",
+   "tr":"karþý"
+},
+{
+   "ing":"without (vidaut)",
+   "tr":"-siz,sýz"
+},
+{
+   "ing":"during (dyu:ring)",
+   "tr":"süresince"
+},
+{
+   "ing":"by (bay)",
+   "tr":"tarafýndan"
+},
+{
+   "ing":"over (ouvýr)",
+   "tr":"üzerinde"
+},
+{
+   "ing":"near (niýr)",
+   "tr":"yanýnda"
+},
+{
+   "ing":"above (ýbav)",
+   "tr":"yukarýsýnda"
+},
+{
+   "ing":"how much (hav mac)",
+   "tr":"ne kadar "
+},
+{
+   "ing":"how many (hav meni)",
+   "tr":"ne kadar (sayýlabilen)"
+},
+{
+   "ing":"when (ven)",
+   "tr":"ne zaman"
+},
+{
+   "ing":"how (hav)",
+   "tr":"nasýl"
+},
+{
+   "ing":"which (vic)",
+   "tr":"hangi"
+},
+{
+   "ing":"flower (fýlavý)",
+   "tr":"cicek"
+},
+{
+   "ing":"lend  (lend)",
+   "tr":"ödünc vermek"
+},
+{
+   "ing":"borrow (borou)",
+   "tr":"ödünc almak"
+},
+{
+   "ing":"history (histry)",
+   "tr":"tarih"
+},
+{
+   "ing":"sale (seyl)",
+   "tr":"indirim"
+},
+{
+   "ing":"car (kar)",
+   "tr":"araba"
+},
+{
+   "ing":"crash (kreþ)",
+   "tr":"kaza"
+},
+{
+   "ing":"ashtray (eþtirey)",
+   "tr":"küllük"
+},
+{
+   "ing":"hair (heyýr)",
+   "tr":"sac"
+},
+{
+   "ing":"awful  (ovfýl)",
+   "tr":"berbat rezil"
+},
+{
+   "ing":"after (aftýr)",
+   "tr":"sonra"
+},
+{
+   "ing":"both  (both)",
+   "tr":"ikisi de"
+},
+{
+   "ing":"whom (hum)",
+   "tr":"kime"
+},
+{
+   "ing":"whose (huus)",
+   "tr":"kimin"
+},
+{
+   "ing":"only (onli)",
+   "tr":"sadece"
+},
+{
+   "ing":"pork (pork)",
+   "tr":"domuz eti"
+},
+{
+   "ing":"trip (trip)",
+   "tr":"gezi"
+},
+{
+   "ing":"pork (pork)",
+   "tr":"domuz eti"
+},
+{
+   "ing":"trip (trip)",
+   "tr":"gezi"
+}
+      ]
+    }
+  }
